@@ -1,0 +1,25 @@
+{
+    "name": "merrow",
+    "type": "monstrosity",
+    "size": "large",
+    "alignment": " chaotic evil",
+    "armor_class": 13,
+    "hp": 45,
+    "speed": [
+        10,
+        0,
+        0,
+        0,
+        40
+    ],
+    "attributes": [
+        18,
+        10,
+        15,
+        8,
+        10,
+        9
+    ],
+    "challenge": "2",
+    "traits_and_actions": "Senses\ndarkvision 60 ft., passive Perception 10\nLanguages\nAbyssal, Aquan\nAmphibious.\nThe merrow can breathe air and water.\nActions\nMultiattack.\nThe merrow makes two attacks: one with its bite and one with its claws or harpoon.\nBite.\nMelee weapon attack:\n+6 to hit, reach 5 ft., one target.\nHit:\n8 (1d8 + 4) piercing damage.\nClaws.\nMelee weapon attack:\n+6 to hit, reach 5 ft., one target.\nHit:\n9 (2d4 + 4) slashing damage.\nHarpoon.\nMelee or ranged weapon attack:\n+6 to hit, reach 5 ft. or range 20/60 ft., one target.\nHit:\n11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature, it must succeed on a Strength contest against the merrow or be pulled up to 20 feet toward the merrow."
+}

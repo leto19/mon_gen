@@ -1,0 +1,25 @@
+{
+    "name": "cloud giant",
+    "type": "giant",
+    "size": "huge",
+    "alignment": " neutral good (50%) or neutral evil (50%)",
+    "armor_class": 14,
+    "hp": 200,
+    "speed": [
+        40,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        27,
+        10,
+        22,
+        12,
+        16,
+        16
+    ],
+    "challenge": "9",
+    "traits_and_actions": "Saving throws\nCon +10, Wis +7, Cha +7\nSkills\nInsight +7, Perception +7\nSenses\npassive Perception 17\nLanguages\nCommon, Giant\nKeen Smell.\nThe giant has advantage on Wisdom (Perception) checks that rely on smell.\nInnate Spellcasting.\nThe giant\u2019s innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:\nAt will:\ndetect magic\n,\nfog cloud\n,\nlight\n3/day each:\nfeather fall\n,\nfly\n,\nmisty step\n,\ntelekinesis\n1/day each:\ncontrol weather\n,\ngaseous form\nActions\nMultiattack\n. The giant makes two morningstar attacks.\nMorningstar.\nMelee weapon attack\n: +12 to hit, reach 10 ft., one target.\nHit:\n21 (3d8 + 8) piercing damage.\nRock.\nRanged weapon attack\n: +12 to hit, range 60/240 ft., one target.\nHit:\n30 (4d10 + 8) bludgeoning damage."
+}

@@ -1,0 +1,25 @@
+{
+    "name": "grimlock",
+    "type": "humanoid",
+    "size": "medium",
+    "alignment": " neutral evil",
+    "armor_class": 11,
+    "hp": 11,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        16,
+        12,
+        12,
+        9,
+        8,
+        6
+    ],
+    "challenge": "1/4",
+    "traits_and_actions": "Skills\nAthletics +5, Perception +3, Stealth +3\nCondition immunities\nblinded\nSenses\nblindsight 30 ft. or 10 ft. while deafened (blind beyond this radius), passive Perception 13\nLanguages\nUndercommon\nBlind senses.\nThe grimlock can\u2019t use its blindsight while deafened and unable to smell.\nKeen Hearing and Smell.\nThe grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.\nStone camouflage.\nThe grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.\nActions\nSpiked bone club.\nMelee weapon attack:\n+5 to hit, reach 5 ft., one target.\nHit:\n5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage."
+}

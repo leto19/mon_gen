@@ -1,0 +1,25 @@
+{
+    "name": "stone giant",
+    "type": "giant",
+    "size": "huge",
+    "alignment": " neutral",
+    "armor_class": 17,
+    "hp": 126,
+    "speed": [
+        40,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        23,
+        15,
+        20,
+        10,
+        12,
+        9
+    ],
+    "challenge": "7",
+    "traits_and_actions": "Saving throws\nDex +5, Con +8, Wis +4\nSkills\nAthletics +12, Perception +4\nSenses\ndarkvision 60 ft., passive Perception 14\nLanguages\nGiant\nStone Camouflage.\nThe giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.\nActions\nMultiattack\n. The giant makes two greatclub attacks.\nGreatclub.\nMelee weapon attack\n: +9 to hit, reach 15 ft., one target.\nHit:\n19 (3d8 + 6) bludgeoning damage.\nRock.\nRanged weapon attack\n: +9 to hit, range 60/240 ft., one target.\nHit:\n28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.\nReactions\nRock Catching.\nIf a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it."
+}

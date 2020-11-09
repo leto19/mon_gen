@@ -1,0 +1,25 @@
+{
+    "name": "young white dragon",
+    "type": "dragon",
+    "size": "large",
+    "alignment": " chaotic evil",
+    "armor_class": 17,
+    "hp": 133,
+    "speed": [
+        40,
+        20,
+        0,
+        80,
+        40
+    ],
+    "attributes": [
+        18,
+        10,
+        18,
+        6,
+        11,
+        12
+    ],
+    "challenge": "6",
+    "traits_and_actions": "Saving Throws Dex +3, Con +7, Wis +3, Cha +4\nSkills Perception +6, Stealth +3\nDamage Immunities cold\nSenses blindsight 30 ft., darkvision 120 ft., passive Perception 16\nLanguages Common, Draconic\nIce Walk. The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn\u2019t cost it extra moment.\nActions\nMultiattack. The dragon makes three attacks: one with its bite and two with its claws.\nBite. Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage plus 4 (1d8) cold damage.\nClaw. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.\nCold Breath (Recharge 5\u20136). The dragon exhales an icy blast in a 30-foot cone. Each creature in that line must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one."
+}

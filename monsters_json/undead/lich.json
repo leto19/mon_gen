@@ -1,0 +1,25 @@
+{
+    "name": "lich",
+    "type": "undead",
+    "size": "medium",
+    "alignment": " any evil alignment",
+    "armor_class": 17,
+    "hp": 135,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        11,
+        16,
+        16,
+        20,
+        14,
+        16
+    ],
+    "challenge": "21",
+    "traits_and_actions": "Saving throws\nCon +10, Int +12, Wis +9\nSkills\nArcana +18, History +12, Insight +9, Perception +9\nDamage resistances\ncold, lightning, necrotic\nDamage immunities\npoison; bludgeoning, piercing, and slashing from nonmagical attacks\nCondition immunities\ncharmed, exhaustion, frightened, paralyzed, poisoned\nSenses\ntruesight 120 ft., passive Perception 19\nLanguages\nCommon plus up to five other languages\nLegendary resistance (3/day).\nIf the lich fails a saving throw, it can choose to succeed instead.\nRejuvenation.\nIf it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.\nSpellcasting.\nThe lich is an 18\nth\n-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:\nCantrips (at will):\nmage hand\n,\nprestidigitation\n,\nray of frost\n1st level (4 slots):\ndetect magic\n,\nmagic missile\n,\nshield\n,\nthunderwave\n2nd level (3 slots):\nacid arrow\n,\ndetect thoughts\n,\ninvisibility\n,\nmirror image\n3rd level (3 slots):\nanimate dead\n,\ncounterspell\n,\ndispel magic\n,\nfireball\n4th level (3 slots):\nblight\n,\ndimension door\n5th level (3 slots):\ncloudkill\n,\nscrying\n6th level (1 slot):\ndisintegrate\n,\nglobe of invulnerability\n7th level (1 slot):\nfinger of death\n,\nplane shift\n8th level (1 slot):\ndominate monster\n,\npower word stun\n9th level (1 slot):\npower word kill\nTurn resistance.\nThe lich has advantage on\nsaving throws\nagainst any effect that turns undead.\nActions\nParalyzing touch.\nMelee spell attack:\n+12 to hit, reach 5 ft., one creature.\nHit:\n10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.\nLegendary Actions\nThe lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature\u2019s turn. The lich regains spent legendary actions at the start of its turn.\nCantrip.\nThe lich casts a cantrip.\nParalyzing Touch (Costs 2 Actions).\nThe lich uses its Paralyzing touch.\nFrightening Gaze (Costs 2 Actions).\nThe lich fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a DC 18 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target\u2019s saving throw is successful or the effect ends for it, the target is immune to the lich\u2019s gaze for the next 24 hours.\nDisrupt Life (Costs 3 Actions).\nEach non-undead creature within 20 feet of the lich must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one."
+}

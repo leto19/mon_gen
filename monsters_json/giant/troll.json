@@ -1,0 +1,25 @@
+{
+    "name": "troll",
+    "type": "giant",
+    "size": "large",
+    "alignment": " chaotic evil",
+    "armor_class": 15,
+    "hp": 84,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        18,
+        13,
+        20,
+        7,
+        9,
+        7
+    ],
+    "challenge": "5",
+    "traits_and_actions": "Skills\nPerception +2\nSenses\ndarkvision 60 ft., passive Perception 12\nLanguages\nGiant\nKeen smell.\nThe troll has advantage on Wisdom (Perception) checks that rely on smell.\nRegeneration.\nThe troll regains 10\nhit points\nat the start of its turn. If the troll takes acid or fire damage, this trait doesn\u2019t function at the start of the troll\u2019s next turn. The troll dies only if it starts its turn with 0 hit points and doesn\u2019t regenerate.\nActions\nMultiattack.\nThe troll makes three attacks: one with its bite and two with its claws.\nBite.\nMelee weapon attack:\n+7 to hit, reach 5 ft., one target.\nHit:\n7 (1d6 + 4) piercing damage.\nClaw.\nMelee weapon attack:\n+7 to hit, reach 5 ft., one target.\nHit:\n11 (2d6 + 4) slashing damage."
+}

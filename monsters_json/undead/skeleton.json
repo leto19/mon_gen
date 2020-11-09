@@ -1,0 +1,25 @@
+{
+    "name": "skeleton",
+    "type": "undead",
+    "size": "medium",
+    "alignment": " lawful evil",
+    "armor_class": 13,
+    "hp": 13,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        10,
+        14,
+        15,
+        6,
+        8,
+        5
+    ],
+    "challenge": "1/4",
+    "traits_and_actions": "Damage vulnerabilities\nbludgeoning\nDamage immunities\npoison\nCondition immunities\nexhaustion, poisoned\nSenses\ndarkvision 60 ft., passive Perception 9\nLanguages\nunderstands all languages it knew in life but can\u2019t speak\nActions\nShortsword.\nMelee weapon attack:\n+4 to hit, reach 5 ft., one target.\nHit:\n5 (1d6 + 2) piercing damage.\nShortbow.\nRanged weapon attack:\n+4 to hit, range 80/320 ft., one target.\nHit:\n5 (1d6 + 2) piercing damage.\nMinotaur Skeleton\nLarge undead, lawful evil\nArmor class\n12 (natural armor)\nHit points\n67 (9d10 + 18)\nSpeed\n40 ft.\nSTR\nDEX\nCON\nINT\nWIS\nCHA\n18(+4)\n11(+0)\n15(+2)\n6(-2)\n8(-1)\n5(-3)\nDamage vulnerabilities\nbludgeoning\nDamage immunities\npoison\nCondition immunities\nexhaustion, poisoned\nSenses\ndarkvision 60 ft., passive Perception 9\nLanguages\nunderstands Abyssal but can\u2019t speak\nChallenge\n2 (450 XP)\nCharge.\nIf the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.\nActions\nGreataxe.\nMelee weapon attack:\n+6 to hit, reach 5 ft., one target.\nHit:\n17 (2d12 + 4) slashing damage.\nGore.\nMelee weapon attack:\n+6 to hit, reach 5 ft., one target.\nHit:\n13 (2d8 + 4) piercing damage.\nWarhorse Skeleton\nLarge undead, lawful evil\nArmor class\n13 (barding scraps)\nHit points\n22 (3d10 + 6)\nSpeed\n60 ft.\nSTR\nDEX\nCON\nINT\nWIS\nCHA\n18(+4)\n11(+0)\n15(+2)\n6(-2)\n8(-1)\n5(-3)\nDamage vulnerabilities\nbludgeoning\nDamage immunities\npoison\nCondition immunities\nexhaustion, poisoned\nSenses\ndarkvision 60 ft., passive Perception 9\nLanguages\n\u2014\nChallenge\n1/2 (100 XP)\nActions\nHooves.\nMelee weapon attack:\n+6 to hit, reach 5 ft., one target.\nHit:\n11 (2d6 + 4) bludgeoning damage."
+}

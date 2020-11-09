@@ -1,0 +1,25 @@
+{
+    "name": "night hag",
+    "type": "fiend",
+    "size": "medium",
+    "alignment": " neutral evil",
+    "armor_class": 17,
+    "hp": 112,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        18,
+        15,
+        16,
+        16,
+        14,
+        16
+    ],
+    "challenge": "5",
+    "traits_and_actions": "Skills\nDeception +7, Insight +6, Perception +6, Stealth +6\nDamage resistances\ncold, fire; bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons\nCondition immunities\ncharmed\nSenses\ndarkvision 120 ft., passive Perception 16\nLanguages\nAbyssal, Common, Infernal, Primordial\nInnate spellcasting.\nThe hag\u2019s innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:\nAt will:\ndetect magic\n,\nmagic missile\n2/day each:\nplane shift\n(self only),\nray of enfeeblement\n,\nsleep\nMagic resistance.\nThe hag has advantage on\nsaving throws\nagainst spells and other magical effects.\nActions\nClaws (hag form only).\nMelee weapon attack:\n+7 to hit, reach 5 ft., one target.\nHit:\n13 (2d8 + 4) slashing damage.\nChange shape.\nThe hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn\u2019t transformed. She reverts to her true form if she dies.\nEtherealness.\nThe hag magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a heartstone in her possession.\nNightmare haunting\n(1/Day).\nWhile on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A protection from evil and good spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target\u2019s hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag\u2019s soul bag. The reduction to the target\u2019s hit point maximum lasts until removed by the greater restoration spell or similar magic."
+}

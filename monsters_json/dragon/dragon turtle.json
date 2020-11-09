@@ -1,0 +1,25 @@
+{
+    "name": "dragon turtle",
+    "type": "dragon",
+    "size": "gargantuan",
+    "alignment": " neutral",
+    "armor_class": 20,
+    "hp": 341,
+    "speed": [
+        20,
+        0,
+        0,
+        0,
+        40
+    ],
+    "attributes": [
+        25,
+        10,
+        20,
+        10,
+        12,
+        12
+    ],
+    "challenge": "17",
+    "traits_and_actions": "Saving Throws\nDex +6, Con +11, Wis +7\nDamage Resistances\nfire\nSenses\ndarkvision 120 ft., passive Perception 11\nLanguages\nAquan, Draconic\nAmphibious.\nThe dragon turtle can breathe air and water.\nActions\nMultiattack.\nThe dragon turtle makes three attacks: one with its bite and two with its claws. It can make one tail attack in place of its two claw attacks.\nBite.\nMelee Weapon Attack:\n+13 to hit, reach 15 ft., one target.\nHit:\n26 (3d12 + 7) piercing damage.\nClaw.\nMelee Weapon Attack:\n+13 to hit, reach 10 ft., one target.\nHit:\n16 (2d8 + 7) slashing damage.\nTail.\nMelee Weapon Attack:\n+13 to hit, reach 15 ft., one target.\nHit:\n26 (3d12 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be pushed up to 10 feet away from the dragon turtle and knocked prone.\nSteam Breath (Recharge 5\u20136).\nThe dragon turtle exhales scalding steam in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 52 (15d6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn\u2019t grant resistance against this damage"
+}

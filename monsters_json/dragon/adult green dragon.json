@@ -1,0 +1,25 @@
+{
+    "name": "adult green dragon",
+    "type": "dragon",
+    "size": "huge",
+    "alignment": " lawful evil",
+    "armor_class": 19,
+    "hp": 207,
+    "speed": [
+        40,
+        0,
+        0,
+        80,
+        40
+    ],
+    "attributes": [
+        23,
+        12,
+        21,
+        18,
+        15,
+        17
+    ],
+    "challenge": "15",
+    "traits_and_actions": "Saving Throws\nDex +6, Con +10, Wis +7, Cha +8\nSkills\nDeception +8, Insight +7, Perception +12, Persuasion +8, Stealth +6\nDamage Immunities\npoison\nCondition Immunities\npoisoned\nSenses\nblindsight 60 ft., darkvision 120 ft., passive Perception 22\nLanguages\nCommon, Draconic\nAmphibious.\nThe dragon can breathe air and water.\nLegendary Resistance (3/Day).\nIf the dragon fails a saving throw, it can choose to succeed instead.\nActions\nMultiattack.\nThe dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.\nBite.\nMelee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage plus 7 (2d6) poison damage.\nClaw.\nMelee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.\nTail.\nMelee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage.\nFrightful Presence.\nEach creature of the dragon\u2019s choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature\u2019s saving throw is successful or the effect ends for it, the creature is immune to the dragon\u2019s Frightful Presence for the next 24 hours.\nPoison Breath (Recharge 5\u20136).\nThe dragon exhales poisonous gas in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 56 (16d6) poison damage on a failed save, or half as much damage on a successful one.\nLegendary Actions\nThe dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature\u2019s turn. The dragon regains spent legendary actions at the start of its turn.\nDetect.\nThe dragon makes a Wisdom (Perception) check.\nTail Attack.\nThe dragon makes a tail attack.\nWing Attack (Costs 2 Actions).\nThe dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed."
+}

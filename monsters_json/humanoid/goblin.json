@@ -1,0 +1,25 @@
+{
+    "name": "goblin",
+    "type": "humanoid",
+    "size": "small",
+    "alignment": " neutral evil",
+    "armor_class": 15,
+    "hp": 7,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        15,
+        14,
+        14,
+        12,
+        10,
+        9
+    ],
+    "challenge": "1/4",
+    "traits_and_actions": "Skills\nStealth +6\nSenses\ndarkvision 60 ft., passive Perception 9\nLanguages\nCommon, Goblin\nNimble Escape.\nThe goblin can take the Disengage or Hide action as a bonus action on each of its turns.\nActions\nScimitar.\nMelee weapon attack:\n+4 to hit, reach 5 ft., one target.\nHit:\n5 (1d6 + 2) slashing damage.\nShortbow.\nRanged weapon attack:\n+4 to hit, range 80/320 ft., one target.\nHit:\n5 (1d6 + 2) piercing damage."
+}

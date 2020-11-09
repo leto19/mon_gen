@@ -1,0 +1,25 @@
+{
+    "name": "young red dragon",
+    "type": "dragon",
+    "size": "large",
+    "alignment": " chaotic evil",
+    "armor_class": 18,
+    "hp": 178,
+    "speed": [
+        40,
+        0,
+        40,
+        80,
+        0
+    ],
+    "attributes": [
+        23,
+        10,
+        21,
+        14,
+        11,
+        19
+    ],
+    "challenge": "10",
+    "traits_and_actions": "Saving Throws\nDex +4, Con +9, Wis +4, Cha +8\nSkills\nPerception +8, Stealth +4\nDamage Immunities\nfire\nSenses\nblindsight 30 ft., darkvision 120 ft., passive Perception 18\nLanguages\nCommon, Draconic\nActions\nMultiattack.\nThe dragon makes three attacks: one with its bite and two with its claws.\nBite.\nMelee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage plus 3 (1d6) fire damage.\nClaw.\nMelee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.\nFire Breath (Recharge 5\u20136).\nThe dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one."
+}

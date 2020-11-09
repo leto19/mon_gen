@@ -1,0 +1,25 @@
+{
+    "name": "tarrasque",
+    "type": "monstrosity",
+    "size": "gargantuan",
+    "alignment": " unaligned",
+    "armor_class": 25,
+    "hp": 676,
+    "speed": [
+        40,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        30,
+        11,
+        30,
+        3,
+        11,
+        11
+    ],
+    "challenge": "30",
+    "traits_and_actions": "Saving throws\nInt +5, Wis +9, Cha +9\nDamage immunities\nfire, poison; bludgeoning, piercing, and slashing from nonmagical attacks\nCondition immunities\ncharmed, frightened, paralyzed, poisoned\nSenses\nblindsight 120 ft., passive Perception 10\nLanguages\n\u2014\nLegendary resistance (3/day).\nIf the tarrasque fails a saving throw, it can choose to succeed instead.\nMagic resistance.\nThe tarrasque has advantage on saving throws against spells and other magical effects.\nReflective Carapace.\nAny time the tarrasque is targeted by a magic missile spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected, and the effect is reflected back at the caster as though it originated from the tarrasque, turning the caster into the target.\nSiege monster.\nThe tarrasque deals double damage to objects and structures.\nActions\nMultiattack.\nThe tarrasque can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tail. It can use its Swallow instead of its bite.\nBite.\nMelee weapon attack:\n+19 to hit, reach 10 ft., one target.\nHit:\n36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the tarrasque can\u2019t bite another target.\nClaw.\nMelee weapon attack:\n+19 to hit, reach 15 ft., one target.\nHit:\n28 (4d8 + 10) slashing damage.\nHorns.\nMelee weapon attack:\n+19 to hit, reach 10 ft., one target.\nHit:\n32 (4d10 + 10) piercing damage.\nTail.\nMelee weapon attack:\n+19 to hit, reach 20 ft., one target.\nHit:\n24 (4d6 + 10) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone.\nFrightful Presence.\nEach creature of the tarrasque\u2019s choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the tarrasque is within line of sight, ending the effect on itself on a success. If a creature\u2019s saving throw is successful or the effect ends for it, the creature is immune to the tarrasque\u2019s Frightful Presence for the next 24 hours.\nSwallow.\nThe tarrasque makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, the target takes the bite\u2019s damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the tarrasque, and it takes 56 (16d6) acid damage at the start of each of the tarrasque\u2019s turns. If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the tarrasque. If the tarrasque dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 30 feet of movement, exiting prone.\nLegendary Actions\nThe tarrasque can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature\u2019s turn. The tarrasque regains spent legendary actions at the start of its turn.\nAttack.\nThe tarrasque makes one claw attack or tail attack.\nMove.\nThe tarrasque moves up to half its speed.\nChomp (Costs 2 Actions).\nThe tarrasque makes one bite attack or uses its Swallow."
+}

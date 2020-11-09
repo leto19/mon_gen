@@ -1,0 +1,25 @@
+{
+    "name": "doppelganger",
+    "type": "beast",
+    "size": "large",
+    "alignment": " unaligned",
+    "armor_class": 14,
+    "hp": 52,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        11,
+        18,
+        14,
+        11,
+        12,
+        14
+    ],
+    "challenge": "3",
+    "traits_and_actions": "Skills\nDeception +6, Insight +3\nSenses\ndarkvision 60 ft., passive Perception 11\nLanguages\nCommon\nShapechanger.\nThe doppelganger can use its action to polymorph into a Small or Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn\u2019t transformed. It reverts to its true form if it dies.\nAmbusher.\nIn the first round of a combat, the doppelganger has advantage on attack rolls against any creature it has surprised.\nSurprise Attack.\nIf the doppelganger surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack.\nActions\nMultiattack.\nThe doppelganger makes two melee attacks.\nSlam.\nMelee Weapon Attack:\n+6 to hit, reach 5 ft., one target.\nHit:\n7 (1d6 + 4) bludgeoning damage.\nRead Thoughts.\nThe doppelganger magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger\u2019s concentration isn\u2019t broken (as if concentrating on a spell). While reading the target\u2019s mind, the doppelganger has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target."
+}

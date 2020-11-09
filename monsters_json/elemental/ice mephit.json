@@ -1,0 +1,25 @@
+{
+    "name": "ice mephit",
+    "type": "elemental",
+    "size": "small",
+    "alignment": " neutral evil",
+    "armor_class": 11,
+    "hp": 21,
+    "speed": [
+        30,
+        0,
+        0,
+        30,
+        0
+    ],
+    "attributes": [
+        7,
+        13,
+        10,
+        9,
+        11,
+        12
+    ],
+    "challenge": "1/2",
+    "traits_and_actions": "Skills\nPerception +2, Stealth +3\nDamage vulnerabilities\nbludgeoning, fire\nDamage immunities\ncold, poison\nCondition immunities\npoisoned\nSenses\ndarkvision 60 ft., passive Perception 12\nLanguages\nAquan, Auran\nDeath burst.\nWhen the mephit dies, it explodes in a burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexterity saving throw, taking 4 (1d8) slashing damage on a failed save, or half as much damage on a successful one.\nFalse appearance\n. While the mephit remains motionless, it is indistinguishable from an ordinary shard of ice.\nInnate spellcasting (1/day).\nThe mephit can innately cast\nfog cloud\n, requiring no material components. Its innate spellcasting ability is Charisma.\nActions\nClaws.\nMelee weapon attack:\n+3 to hit, reach 5 ft., one creature.\nHit:\n3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.\nFrost Breath (Recharge 6).\nThe mephit exhales a 15-foot cone of cold air. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 5 (2d4) cold damage on a failed save, or half as much damage on a successful one."
+}

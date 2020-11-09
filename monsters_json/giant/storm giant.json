@@ -1,0 +1,25 @@
+{
+    "name": "storm giant",
+    "type": "giant",
+    "size": "huge",
+    "alignment": " chaotic good",
+    "armor_class": 16,
+    "hp": 230,
+    "speed": [
+        50,
+        0,
+        0,
+        0,
+        50
+    ],
+    "attributes": [
+        29,
+        14,
+        20,
+        16,
+        18,
+        18
+    ],
+    "challenge": "13",
+    "traits_and_actions": "Saving throws\nStr +14, Con +10, Wis +9, Cha +9\nSkills\nArcana +8, Athletics +14, History +8, Perception +9\nDamage resistances\ncold\nDamage immunities\nlightning, thunder\nSenses\npassive Perception 19\nLanguages\nCommon, Giant\nAmphibious.\nThe giant can breathe air and water.\nInnate Spellcasting.\nThe giant\u2019s innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:\nAt will:\ndetect magic\n,\nfeather fall\n,\nlevitate\n,\nlight\n3/day each:\ncontrol weather\n,\nwater breathing\nActions\nMultiattack\n.\nThe giant makes two greatsword attacks.\nGreatsword.\nMelee weapon attack\n: +14 to hit, reach 10 ft., one target.\nHit:\n30 (6d6 + 9) slashing damage.\nRock.\nRanged weapon attack\n: +14 to hit, range 60/240 ft., one target.\nHit:\n35 (4d12 + 9) bludgeoning damage.\nLightning Strike (Recharge 5\u20136).\nThe giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one."
+}

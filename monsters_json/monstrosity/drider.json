@@ -1,0 +1,25 @@
+{
+    "name": "drider",
+    "type": "monstrosity",
+    "size": "large",
+    "alignment": " chaotic evil",
+    "armor_class": 19,
+    "hp": 123,
+    "speed": [
+        30,
+        0,
+        30,
+        0,
+        0
+    ],
+    "attributes": [
+        16,
+        16,
+        18,
+        13,
+        14,
+        12
+    ],
+    "challenge": "6",
+    "traits_and_actions": "Skills\nPerception +5, Stealth +9\nSenses\ndarkvision 120 ft., passive Perception 15\nLanguages\nElvish, Undercommon\nFey Ancestry.\nThe drider has advantage on saving throws against being charmed, and magic can\u2019t put the drider to sleep.\nInnate Spellcasting.\nThe drider\u2019s innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components:\nAt will:\ndancing lights\n1/day each:\ndarkness\n,\nfaerie fire\nSpider Climb.\nThe drider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.\nSunlight Sensitivity.\nWhile in sunlight, the drider has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.\nWeb Walker.\nThe drider ignores movement restrictions caused by webbing.\nActions\nMultiattack.\nThe drider makes three attacks, either with its longsword or its longbow. It can replace one of those attacks with a bite attack.\nBite.\nMelee Weapon Attack:\n+6 to hit, reach 5 ft., one creature.\nHit:\n2 (1d4) piercing damage plus 9 (2d8) poison damage.\nLongsword.\nMelee Weapon Attack:\n+6 to hit, reach 5 ft., one target.\nHit:\n7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.\nLongbow.\nRanged Weapon Attack:\n+6 to hit, range 150/600 ft., one target.\nHit:\n7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage."
+}

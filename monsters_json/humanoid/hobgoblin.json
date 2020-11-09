@@ -1,0 +1,25 @@
+{
+    "name": "hobgoblin",
+    "type": "humanoid",
+    "size": "medium",
+    "alignment": " lawful evil",
+    "armor_class": 18,
+    "hp": 11,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        13,
+        12,
+        12,
+        10,
+        10,
+        9
+    ],
+    "challenge": "1/2",
+    "traits_and_actions": "Senses\ndarkvision 60 ft., passive Perception 10\nLanguages\nCommon, Goblin\nMartial advantage.\nOnce per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn\u2019t incapacitated.\nActions\nLongsword.\nMelee weapon attack:\n+3 to hit, reach 5 ft., one target.\nHit:\n5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.\nLongbow.\nRanged weapon attack:\n+3 to hit, range 150/600 ft., one target.\nHit:\n5 (1d8 + 1) piercing damage."
+}

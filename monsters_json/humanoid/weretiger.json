@@ -1,0 +1,25 @@
+{
+    "name": "weretiger",
+    "type": "humanoid",
+    "size": "medium",
+    "alignment": " shapechanger)",
+    "armor_class": 12,
+    "hp": 120,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        17,
+        15,
+        16,
+        10,
+        13,
+        11
+    ],
+    "challenge": "4",
+    "traits_and_actions": "Skills\nPerception +5, Stealth +4\nDamage immunities\nbludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons\nSenses\ndarkvision 60 ft., passive Perception 15\nLanguages\nCommon (can\u2019t speak in tiger form)\nShapechanger.\nThe weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn\u2019t transformed. It reverts to its true form if it dies.\nKeen hearing and smell.\nThe weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell.\nPounce (Tiger or Hybrid Form Only).\nIf the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action.\nActions\nMultiattack (humanoid or hybrid form only).\nIn humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks.\nBite (Tiger or Hybrid Form Only).\nMelee weapon attack:\n+5 to hit, reach 5 ft., one target.\nHit:\n8 (1d10 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy.\nClaw (Tiger or Hybrid Form Only).\nMelee weapon attack:\n+5 to hit, reach 5 ft., one target.\nHit:\n7 (1d8 + 3) slashing damage.\nScimitar (humanoid or hybrid form only).\nMelee weapon attack:\n+5 to hit, reach 5 ft., one target.\nHit:\n6 (1d6 + 3) slashing damage.\nLongbow (humanoid or hybrid form only).\nRanged weapon attack:\n+4 to hit, range 150/600 ft., one target.\nHit:\n6 (1d8 + 2) piercing damage."
+}

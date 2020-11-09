@@ -1,0 +1,25 @@
+{
+    "name": "roc",
+    "type": "monstrosity",
+    "size": "gargantuan",
+    "alignment": " unaligned",
+    "armor_class": 15,
+    "hp": 248,
+    "speed": [
+        20,
+        0,
+        0,
+        120,
+        0
+    ],
+    "attributes": [
+        28,
+        10,
+        20,
+        3,
+        10,
+        9
+    ],
+    "challenge": "11",
+    "traits_and_actions": "Saving throws\nDex +4, Con +9, Wis +4, Cha +3\nSkills\nPerception +4\nSenses\npassive Perception 14\nLanguages\n\u2014\nKeen sight.\nThe roc has advantage on Wisdom (Perception) checks that rely on sight.\nActions\nMultiattack.\nThe roc makes two attacks: one with its beak and one with its talons.\nBeak.\nMelee weapon attack:\n+13 to hit, reach 10 ft., one target.\nHit:\n27 (4d8 + 9) piercing damage.\nTalons.\nMelee weapon attack:\n+13 to hit, reach 5 ft., one target.\nHit:\n23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can\u2019t use its talons on another target."
+}

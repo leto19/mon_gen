@@ -1,0 +1,25 @@
+{
+    "name": "blue dragon wyrmling",
+    "type": "dragon",
+    "size": "medium",
+    "alignment": " lawful evil",
+    "armor_class": 17,
+    "hp": 52,
+    "speed": [
+        30,
+        15,
+        0,
+        60,
+        0
+    ],
+    "attributes": [
+        17,
+        10,
+        15,
+        12,
+        11,
+        15
+    ],
+    "challenge": "3",
+    "traits_and_actions": "Saving Throws Dex +2, Con +4, Wis +2, Cha +4\nSkills Perception +4, Stealth +2\nDamage Immunities lightning\nSenses blindsight 10 ft., darkvision 60 ft., passive Perception 14\nLanguages Draconic\nActions\nBite. Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage.\nLightning Breath (Recharge 5\u20136). The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one."
+}

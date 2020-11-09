@@ -1,0 +1,25 @@
+{
+    "name": "cockatrice",
+    "type": "monstrosity",
+    "size": "small",
+    "alignment": " unaligned",
+    "armor_class": 11,
+    "hp": 27,
+    "speed": [
+        20,
+        0,
+        0,
+        40,
+        0
+    ],
+    "attributes": [
+        6,
+        12,
+        12,
+        2,
+        13,
+        5
+    ],
+    "challenge": "1/2",
+    "traits_and_actions": "Senses\ndarkvision 60 ft., passive Perception 11\nLanguages\n\u2014\nActions\nBite.\nMelee Weapon Attack:\n+3 to hit, reach 5 ft., one creature.\nHit:\n3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours."
+}

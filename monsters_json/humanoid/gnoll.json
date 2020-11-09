@@ -1,0 +1,25 @@
+{
+    "name": "gnoll",
+    "type": "humanoid",
+    "size": "medium",
+    "alignment": " chaotic evil",
+    "armor_class": 15,
+    "hp": 22,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        14,
+        12,
+        11,
+        6,
+        10,
+        6
+    ],
+    "challenge": "1/2",
+    "traits_and_actions": "Senses\ndarkvision 60 ft., passive Perception 10\nLanguages\nGnoll\nRampage.\nWhen the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.\nActions\nBite.\nMelee weapon attack:\n+4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.\nSpear.\nMelee or ranged weapon attack:\n+4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.\nLongbow.\nRanged weapon attack:\n+3 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage."
+}

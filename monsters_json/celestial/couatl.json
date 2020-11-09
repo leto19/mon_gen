@@ -1,0 +1,25 @@
+{
+    "name": "couatl",
+    "type": "celestial",
+    "size": "medium",
+    "alignment": " lawful good",
+    "armor_class": 19,
+    "hp": 97,
+    "speed": [
+        30,
+        0,
+        0,
+        90,
+        0
+    ],
+    "attributes": [
+        16,
+        20,
+        17,
+        18,
+        20,
+        18
+    ],
+    "challenge": "4",
+    "traits_and_actions": "Saving Throws\nCon +5, Wis +7, Cha +6\nDamage Immunities\nradiant\nDamage Immunities\npsychic; bludgeoning, piercing, and slashing from nonmagical attacks\nSenses\ntruesight 120 ft., passive Perception 15\nLanguages\nall, telepathy 120 ft.\nInnate Spellcasting.\nThe solar\u2019s spellcasting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material components:\nAt will:\ndetect evil and good\n,\ndetect magic\n,\ndetect thoughts\n3/day each:\nbless\n,\ncreate food and water\n,\ncure wounds\n,\nlesser restoration\n,\nprotection from poison\n,\nsanctuary\n,\nshield\n1/day each:\ndream\n,\ngreater restoration\n,\nscrying\nMagic Weapons.\nThe couatl\u2019s weapon attacks are magical. Shielded Mind. The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location.\nActions\nBite.\nMelee Weapon Attack:\n+8 to hit, reach 5 ft., one creature.\nHit:\n8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake.\nConstrict.\nMelee Weapon Attack:\n+6 to hit, reach 10 ft., one Medium or smaller creature.\nHit:\n10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the couatl can\u2019t constrict another target.\nChange Shape.\nThe couatl magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the couatl\u2019s choice).\nIn a new form, the couatl retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and other actions are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks. If the new form has a bite attack, the couatl can use its bite in that form."
+}

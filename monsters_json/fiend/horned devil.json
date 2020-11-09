@@ -1,0 +1,25 @@
+{
+    "name": "horned devil",
+    "type": "fiend",
+    "size": "medium",
+    "alignment": " lawful evil",
+    "armor_class": 18,
+    "hp": 178,
+    "speed": [
+        20,
+        0,
+        0,
+        60,
+        0
+    ],
+    "attributes": [
+        22,
+        17,
+        21,
+        12,
+        16,
+        14
+    ],
+    "challenge": "11",
+    "traits_and_actions": "Saving Throws\nStr +10, Dex +7, Wis +7, Cha +7\nDamage Resistances\ncold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered\nDamage Immunities\nfire, poison\nCondition Immunities\npoisoned\nSenses\ndarkvision 120 ft., passive Perception 11\nLanguages\nInfernal, telepathy 120 ft.\nDevil\u2019s Sight.\nMagical darkness doesn\u2019t impede the devil\u2019s darkvision.\nMagic Resistance.\nThe devil has advantage on saving throws against spells and other magical effects.\nActions\nMultiattack. The devil makes three melee attacks: two with its fork and one with its tail. It can use Hurl Flame in place of any melee attack.\nFork.\nMelee Weapon Attack:\n+10 to hit, reach 10 ft., one target.\nHit:\n15 (2d8 + 6) piercing damage.\nTail.\nMelee Weapon Attack:\n+10 to hit, reach 10 ft., one target.\nHit:\n10 (1d8 + 6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.\nHurl Flame.\nRanged Spell Attack:\n+7 to hit, range 150 ft., one target.\nHit:\n14 (4d6) fire damage. If the target is a flammable object that isn\u2019t being worn or carried, it also catches fire."
+}

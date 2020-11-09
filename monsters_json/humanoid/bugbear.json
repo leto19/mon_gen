@@ -1,0 +1,25 @@
+{
+    "name": "bugbear",
+    "type": "humanoid",
+    "size": "medium",
+    "alignment": " chaotic evil",
+    "armor_class": 17,
+    "hp": 39,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        15,
+        14,
+        13,
+        8,
+        11,
+        9
+    ],
+    "challenge": "1",
+    "traits_and_actions": "Skills\nStealth +6, Survival +2\nSenses\ndarkvision 60 ft., passive Perception 10\nLanguages\nCommon, Goblin\nBrute.\nA melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).\nSurprise Attack.\nIf the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.\nActions\nMorningstar\nMelee Weapon Attack:\n+4 to hit, reach 5 ft., one target.\nHit:\n11 (2d8 + 2) piercing damage.\nJavelin\nMelee or Ranged Weapon Attack:\n+4 to hit, reach 5 ft., or range 30/120 ft., one target.\nHit:\n9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range."
+}

@@ -1,0 +1,25 @@
+{
+    "name": "gnome, deep (svirfneblin)",
+    "type": "humanoid",
+    "size": "small",
+    "alignment": " neutral good",
+    "armor_class": 15,
+    "hp": 16,
+    "speed": [
+        20,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        15,
+        14,
+        14,
+        12,
+        10,
+        9
+    ],
+    "challenge": "1/2",
+    "traits_and_actions": "Skills\nInvestigation +3, Perception +2, Stealth +4\nSenses\ndarkvision 120 ft., passive Perception 12\nLanguages\nGnomish, Terran, Undercommon\nStone Camouflage.\nThe gnome has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.\nGnome Cunning.\nThe gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.\nInnate Spellcasting.\nThe gnome\u2019s innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material components:\nAt will:\nnondetection\n(self only)\n1/day each:\nblindness/deafness\n,\nblur\n,\ndisguise self\nActions\nWar Pick.\nMelee weapon attack\n: +4 to hit, reach 5 ft., one target.\nHit:\n6 (1d8 + 2) piercing damage.\nPoisoned Dart.\nRanged weapon attack\n: +4 to hit, range 30/120 ft., one creature.\nHit:\n4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+}

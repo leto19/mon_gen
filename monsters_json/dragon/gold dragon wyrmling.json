@@ -1,0 +1,25 @@
+{
+    "name": "gold dragon wyrmling",
+    "type": "dragon",
+    "size": "medium",
+    "alignment": " lawful good",
+    "armor_class": 17,
+    "hp": 60,
+    "speed": [
+        30,
+        0,
+        0,
+        60,
+        30
+    ],
+    "attributes": [
+        19,
+        14,
+        17,
+        14,
+        11,
+        16
+    ],
+    "challenge": "3",
+    "traits_and_actions": "Saving Throws\nDex +4, Con +5, Wis +2, Cha +5\nSkills\nPerception +4, Stealth +4\nDamage Immunities\nfire\nSenses\nblindsight 10 ft., darkvision 60 ft., passive Perception 14\nLanguages\nDraconic\nAmphibious\n.\nThe dragon can breathe air and water.\nActions\nBite.\nMelee Weapon Attack:\n+6 to hit, reach 5 ft., one target.\nHit:\n9 (1d10 + 4) piercing damage.\nBreath Weapons (Recharge 5-6).\nThe dragon uses one of the following breath weapons.\nFire Breath.\nThe dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.\nWeakening Breath.\nThe dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+}

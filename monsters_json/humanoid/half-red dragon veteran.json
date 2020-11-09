@@ -1,0 +1,25 @@
+{
+    "name": "half-red dragon veteran",
+    "type": "humanoid",
+    "size": "medium",
+    "alignment": " any alignment",
+    "armor_class": 18,
+    "hp": 65,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        18,
+        12,
+        16,
+        13,
+        14,
+        14
+    ],
+    "challenge": "5",
+    "traits_and_actions": "Skills\nAthletics +5, Perception +2\nDamage resistances\nfire\nSenses\nblindsight 10 ft., darkvision 60 ft., passive Perception 12\nLanguages\nCommon, Draconic\nActions\nMultiattack.\nThe veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.\nLongsword.\nMelee weapon attack:\n+5 to hit, reach 5 ft., one target.\nHit:\n7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.\nShortsword.\nMelee weapon attack:\n+5 to hit, reach 5 ft., one target.\nHit:\n6 (1d6 + 3) piercing damage.\nHeavy crossbow.\nRanged weapon attack:\n+3 to hit, range 100/400 ft., one target.\nHit:\n6 (1d10 + 1) piercing damage.\nFire breath\n(Recharge 5\u20136).\nThe veteran exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one."
+}

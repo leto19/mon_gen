@@ -1,0 +1,25 @@
+{
+    "name": "rakshasa",
+    "type": "fiend",
+    "size": "medium",
+    "alignment": " lawful evil",
+    "armor_class": 16,
+    "hp": 110,
+    "speed": [
+        40,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        14,
+        17,
+        18,
+        13,
+        16,
+        20
+    ],
+    "challenge": "13",
+    "traits_and_actions": "Skills\nDeception +10, Insight +8\nDamage vulnerabilities\npiercing from magic weapons wielded by good creatures\nDamage immunities\nbludgeoning, piercing, and slashing from nonmagical attacks\nSenses\ndarkvision 60 ft., passive Perception 13\nLanguages\nCommon, Infernal\nLimited Magic Immunity.\nThe rakshasa can\u2019t be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects.\nInnate spellcasting.\nThe rakshasa\u2019s innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material components:\nAt will:\ndetect thoughts\n,\ndisguise self\n,\nmage hand\n,\nminor illusion\n3/day each:\ncharm person\n,\ndetect magic\n,\ninvisibility\n,\nmajor image\n,\nsuggestion\n1/day each:\ndominate person\n,\nfly\n,\nplane shift\n,\ntrue seeing\nActions\nMultiattack.\nThe rakshasa makes two claw attacks.\nClaw.\nMelee weapon attack:\n+7 to hit, reach 5 ft., one target.\nHit:\n9 (2d6 + 2) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target\u2019s thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a remove curse spell or similar magic."
+}

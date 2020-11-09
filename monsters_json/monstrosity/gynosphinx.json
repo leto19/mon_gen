@@ -1,0 +1,25 @@
+{
+    "name": "gynosphinx",
+    "type": "monstrosity",
+    "size": "large",
+    "alignment": " lawful neutral",
+    "armor_class": 17,
+    "hp": 136,
+    "speed": [
+        40,
+        0,
+        0,
+        60,
+        0
+    ],
+    "attributes": [
+        18,
+        15,
+        16,
+        18,
+        18,
+        18
+    ],
+    "challenge": "11",
+    "traits_and_actions": "Skills\nArcana +12, History +12, Perception +8, Religion +8\nDamage resistances\nbludgeoning, piercing, and slashing from nonmagical attacks\nDamage immunities\npsychic\nCondition immunities\ncharmed, frightened\nSenses\ntruesight 120 ft., passive Perception 18\nLanguages\nCommon, Sphinx\nInscrutable.\nThe sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx\u2019s intentions or sincerity have disadvantage.\nMagic weapons.\nThe sphinx\u2019s weapon attacks are magical.\nSpellcasting.\nThe sphinx is a 9\nth\n-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:\nCantrips (at will):\nmage hand\n,\nminor illusion\n,\nprestidigitation\n1st level (4 slots):\ndetect magic\n,\nidentify\n,\nshield\n2nd level (3 slots):\ndarkness\n,\nlocate object\n,\nsuggestion\n3rd level (3 slots):\ndispel magic\n,\nremove curse\n,\ntongues\n4th level (3 slots):\nbanishment\n,\ngreater invisibility\n5th level (1 slot):\nlegend lore\nActions\nMultiattack.\nThe sphinx makes two claw attacks.\nClaw.\nMelee weapon attack:\n+8 to hit, reach 5 ft., one target.\nHit:\n13 (2d8 + 4) slashing damage.\nLegendary Actions\nThe sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature\u2019s turn. The sphinx regains spent legendary actions at the start of its turn.\nClaw attack.\nThe sphinx makes one claw attack.\nTeleport (Costs 2 Actions).\nThe sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.\nCast a Spell (Costs 3 Actions).\nThe sphinx casts a spell from its list of prepared spells, using a spell slot as normal."
+}

@@ -1,0 +1,25 @@
+{
+    "name": "shadow",
+    "type": "undead",
+    "size": "medium",
+    "alignment": " chaotic evil",
+    "armor_class": 12,
+    "hp": 16,
+    "speed": [
+        40,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        6,
+        14,
+        13,
+        13,
+        10,
+        8
+    ],
+    "challenge": "1/2",
+    "traits_and_actions": "Skills\nStealth +4 (+6 in dim light or darkness)\nDamage vulnerabilities\nradiant\nDamage resistances\nacid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks\nDamage immunities\nnecrotic, poison\nCondition immunities\nexhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained\nSenses\ndarkvision 60 ft., passive Perception 10\nLanguages\n\u2014\nAmorphous.\nThe shadow can move through a space as narrow as 1 inch wide without squeezing. Shadow Stealth. While in dim light or darkness, the shadow can take the Hide action as a bonus action. Sunlight Weakness. While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.\nActions\nStrength Drain.\nMelee weapon attack:\n+4 to hit, reach 5 ft., one creature.\nHit:\n9 (2d6 + 2) necrotic damage, and the target\u2019s Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest. If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later."
+}

@@ -1,0 +1,25 @@
+{
+    "name": "stirge",
+    "type": "beast",
+    "size": "tiny",
+    "alignment": " unaligned",
+    "armor_class": 14,
+    "hp": 2,
+    "speed": [
+        10,
+        0,
+        0,
+        40,
+        0
+    ],
+    "attributes": [
+        4,
+        16,
+        11,
+        2,
+        8,
+        6
+    ],
+    "challenge": "1/8",
+    "traits_and_actions": "Senses\ndarkvision 60 ft., passive Perception 9\nLanguages\n\u2014\nActions\nBlood Drain.\nMelee weapon attack:\n+5 to hit, reach 5 ft., one creature.\nHit:\n5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn\u2019t attack. Instead, at the start of each of the stirge\u2019s turns, the target loses 5 (1d4 + 3) hit points due to blood loss. The stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge."
+}

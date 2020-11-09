@@ -1,0 +1,25 @@
+{
+    "name": "flesh golem",
+    "type": "construct",
+    "size": "medium",
+    "alignment": " neutral",
+    "armor_class": 9,
+    "hp": 93,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        19,
+        9,
+        18,
+        6,
+        10,
+        5
+    ],
+    "challenge": "5",
+    "traits_and_actions": "Damage immunities\nlightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren\u2019t adamantine\nCondition immunities\ncharmed, exhaustion, frightened, paralyzed, petrified, poisoned\nSenses\ndarkvision 60 ft., passive Perception 10\nLanguages\nunderstands the languagesof its creator but can\u2019t speak\nBerserk.\nWhenever the golem starts its turn with 40 hit\npoints or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points. The golem\u2019s creator, if within 60 feet of the berserk golem, can try to calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds, the golem ceases being berserk. If it takes damage while still at 40\nhit points or fewer, the golem might go berserk again.\nAversion of Fire. If the golem takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.\nImmutable form\n. The golem is immune to any spell or effect that would alter its form.\nLightning Absorption.\nWhenever the golem is subjected to lightning damage, it takes no damage and instead regains a number of hit points equal to the lightning damage dealt.\nMagic resistance\n. The golem has advantage on saving throws against spells and other magical effects.\nMagic weapons\n. The golem\u2019s weapon attacks are magical.\nActions\nMultiattack\n. The golem makes two slam attacks.\nSlam\n.\nMelee weapon attack:\n+7 to hit, reach 5 ft., one target.\nHit:\n13 (2d8 + 4) bludgeoning damage."
+}

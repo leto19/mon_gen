@@ -1,0 +1,25 @@
+{
+    "name": "ettin",
+    "type": "giant",
+    "size": "large",
+    "alignment": " chaotic evil",
+    "armor_class": 12,
+    "hp": 85,
+    "speed": [
+        40,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        21,
+        8,
+        17,
+        6,
+        10,
+        8
+    ],
+    "challenge": "4",
+    "traits_and_actions": "Skills\nPerception +4\nSenses\ndarkvision 60 ft., passive Perception 14\nLanguages\nGiant, Orc\nTwo Heads.\nThe ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.\nWakeful.\nWhen one of the ettin\u2019s heads is asleep, its other head is awake.\nActions\nMultiattack.\nThe ettin makes two attacks: one with its battleaxe and one with its morningstar.\nBattleaxe.\nMelee Weapon Attack:\n+7 to hit, reach 5 ft., one target.\nHit:\n14 (2d8 + 5) slashing damage.\nMorningstar.\nMelee Weapon Attack:\n+7 to hit, reach 5 ft., one target.\nHit:\n14 (2d8 + 5) piercing damage."
+}

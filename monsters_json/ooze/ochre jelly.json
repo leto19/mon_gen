@@ -1,0 +1,25 @@
+{
+    "name": "ochre jelly",
+    "type": "ooze",
+    "size": "large",
+    "alignment": " unaligned",
+    "armor_class": 8,
+    "hp": 45,
+    "speed": [
+        10,
+        0,
+        10,
+        0,
+        0
+    ],
+    "attributes": [
+        15,
+        6,
+        14,
+        2,
+        6,
+        1
+    ],
+    "challenge": "2",
+    "traits_and_actions": "Damage resistances\nacid\nDamage immunities\nlightning, slashing\nCondition immunities\nblinded, charmed, deafened, exhaustion, frightened, prone\nSenses\nblindsight 60 ft. (blind beyond this radius), passive Perception 8\nLanguages\n\u2014\nAmorphous.\nThe jelly can move through a space as narrow as 1 inch wide without squeezing.\nSpider climb.\nThe jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.\nActions\nPseudopod.\nMelee weapon attack:\n+4 to hit, reach 5 ft., one target.\nHit:\n9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.\nReactions\nSplit.\nWhen a jelly that is Medium or larger is subjected to lightning or slashing damage, it splits into two new jellies if it has at least 10\nhit points\n. Each new jelly has\nhit points\nequal to half the original jelly\u2019s, rounded down. New jellies are one size smaller than the original jelly."
+}

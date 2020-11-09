@@ -1,0 +1,25 @@
+{
+    "name": "ettercap",
+    "type": "monstrosity",
+    "size": "medium",
+    "alignment": " neutral evil",
+    "armor_class": 13,
+    "hp": 44,
+    "speed": [
+        30,
+        0,
+        30,
+        0,
+        0
+    ],
+    "attributes": [
+        14,
+        15,
+        13,
+        7,
+        12,
+        8
+    ],
+    "challenge": "2",
+    "traits_and_actions": "Skills\nPerception +3, Stealth +4, Survival +3\nSenses\ndarkvision 60 ft., passive Perception 13\nLanguages\n\u2014\nSpider Climb.\nThe drider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.\nWeb Sense.\nWhile in contact with a web, the ettercap knows the exact location of any other creature in contact with the same web.\nWeb Walker.\nThe drider ignores movement restrictions caused by webbing.\nActions\nMultiattack.\nThe ettercap makes two attacks: one with its bite and one with its claws.\nBite.\nM\nelee Weapon Attack:\n+4 to hit, reach 5 ft., one creature.\nHit:\n6 (1d8 + 2) piercing damage plus 4 (1d8) poison damage. The target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.\nClaws.\nM\nelee Weapon Attack\n: +4 to hit, reach 5 ft., one target.\nHit:\n7 (2d4 + 2) slashing damage.\nWeb (Recharge 5\u20136).\nRanged Weapon Attack:\n+4 to hit, range 30/60 ft., one Large or smaller creature.\nHit:\nThe creature is restrained by webbing. As an action, the restrained creature can make a DC 11 Strength check, escaping from the webbing on a success. The effect also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage."
+}

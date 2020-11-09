@@ -1,0 +1,25 @@
+{
+    "name": "erinyes",
+    "type": "fiend",
+    "size": "medium",
+    "alignment": " lawful evil",
+    "armor_class": 18,
+    "hp": 153,
+    "speed": [
+        30,
+        0,
+        0,
+        60,
+        0
+    ],
+    "attributes": [
+        18,
+        16,
+        18,
+        14,
+        12,
+        14
+    ],
+    "challenge": "12",
+    "traits_and_actions": "Saving Throws\nDex +7, Con +8, Wis +6, Cha +8\nDamage Resistances\ncold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered\nDamage Immunities\nfire, poison\nCondition Immunities\npoisoned\nSenses\ndarkvision 120 ft., passive Perception 11\nLanguages\nInfernal, telepathy 120 ft.\nHellish Weapons.\nThe erinyes\u2019s weapon attacks are magical and deal an extra 13 (3d8) poison damage on a hit (included in the attacks).\nMagic Resistance.\nThe erinyes has advantage on saving throws against spells and other magical effects.\nActions\nMultiattack.\nThe erinyes makes three attacks.\nLongsword.\nMelee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, plus 13 (3d8) poison damage.\nLongbow.\nRanged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the lesser restoration spell or similar magic.\nReactions\nParry.\nThe erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon."
+}

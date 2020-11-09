@@ -1,0 +1,25 @@
+{
+    "name": "grick",
+    "type": "monstrosity",
+    "size": "medium",
+    "alignment": " neutral",
+    "armor_class": 14,
+    "hp": 27,
+    "speed": [
+        30,
+        0,
+        30,
+        0,
+        0
+    ],
+    "attributes": [
+        14,
+        14,
+        11,
+        3,
+        14,
+        5
+    ],
+    "challenge": "2",
+    "traits_and_actions": "Damage resistances\nbludgeoning, piercing, and slashing from nonmagical attacks\nSenses\ndarkvision 60 ft., passive Perception 12\nLanguages\n\u2014\nStone Camouflage.\nThe grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.\nActions\nMultiattack\n. The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target.\nTentacles.\nMelee weapon attack:\n+4 to hit, reach 5 ft., one target.\nHit:\n9 (2d6 + 2) slashing damage.\nBeak.\nMelee weapon attack:\n+4 to hit, reach 5 ft., one target.\nHit:\n5 (1d6 + 2) piercing damage.\nAn adult grick is about 8 feet long from the tips of its tentacles to the end of its body and weighs some 200 pounds. Its body coloration is uniformly dark, with a pale underbelly.\nCombat\nGricks attack when hungry or threatened. They hunt by holing up near high-traffic areas, using their natural coloration to blend into convenient shadows. When prey (virtually anything that moves) ventures near, they lash out with their tentacles. A grick\u2019s rubbery body seems to shed blows of any kind. Its jaws are relatively small and weak compared to its body mass, so rather than consume its kill immediately, a grick normally drags its victim back to its lair to be eaten at its leisure.\nA grick\u2019s\nnatural weapons\nare treated as magic weapons for the purpose of overcoming\ndamage reduction\n.\nMultiple gricks do not fight in concert. Each attacks the prey closest to it, and breaks off the fight as soon as it can drag\ndead\nor\nunconscious\nprey away.\nSkills\nA grick has a +8 racial bonus on\nClimb\nchecks and can always choose to\ntake 10\non a\nClimb\ncheck, even if rushed or threatened.\n*Their coloration affords gricks a +8 racial bonus on\nHide\nchecks when in natural rocky areas."
+}

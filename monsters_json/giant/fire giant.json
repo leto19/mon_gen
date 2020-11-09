@@ -1,0 +1,25 @@
+{
+    "name": "fire giant",
+    "type": "giant",
+    "size": "huge",
+    "alignment": " lawful evil",
+    "armor_class": 18,
+    "hp": 162,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        25,
+        9,
+        23,
+        10,
+        14,
+        13
+    ],
+    "challenge": "9",
+    "traits_and_actions": "Saving throws\nDex +3, Con +10, Cha +5\nSkills\nAthletics +11, Perception +6\nDamage immunities\nfire\nSenses\npassive Perception 16\nLanguages\nGiant\nActions\nMultiattack\n. The giant makes two greatsword attacks.\nGreatsword.\nMelee weapon attack\n: +11 to hit, reach 10 ft., one target.\nHit:\n28 (6d6 + 7) slashing damage.\nRock.\nRanged weapon attack\n: +11 to hit, range 60/240 ft., one target.\nHit:\n29 (4d10 + 7) bludgeoning damage."
+}

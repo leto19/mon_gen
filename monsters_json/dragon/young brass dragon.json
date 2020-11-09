@@ -1,0 +1,25 @@
+{
+    "name": "young brass dragon",
+    "type": "dragon",
+    "size": "large",
+    "alignment": " chaotic good",
+    "armor_class": 17,
+    "hp": 110,
+    "speed": [
+        40,
+        20,
+        0,
+        80,
+        0
+    ],
+    "attributes": [
+        19,
+        10,
+        17,
+        12,
+        11,
+        15
+    ],
+    "challenge": "6",
+    "traits_and_actions": "Saving Throws\nDex +3, Con +6, Wis +3, Cha +5\nSkills\nPerception +6, Persuasion +5, Stealth +3\nDamage Immunities\nfire\nSenses\nblindsight 30 ft., darkvision 120 ft., passive Perception 16\nLanguages\nCommon, Draconic\nActions\nMultiattack.\nThe dragon makes three attacks: one with its bite and two with its claws.\nBite.\nMelee Weapon Attack:\n+7 to hit, reach 10 ft., one target.\nHit:\n15 (2d10 + 4) piercing damage.\nClaw.\nMelee Weapon Attack:\n+7 to hit, reach 5 ft., one target.\nHit:\n11 (2d6 + 4) slashing damage.\nBreath Weapons\n(Recharge 5\u20136).\nThe dragon uses one of the following breath weapons.\nFire Breath.\nThe dragon exhales fire in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 42 (12d6) fire damage on a failed save, or half as much damage on a successful one.\nSleep Breath.\nThe dragon exhales sleep gas in a 60-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw or fall unconscious for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it."
+}

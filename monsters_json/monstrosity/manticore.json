@@ -1,0 +1,25 @@
+{
+    "name": "manticore",
+    "type": "monstrosity",
+    "size": "large",
+    "alignment": " lawful evil",
+    "armor_class": 14,
+    "hp": 68,
+    "speed": [
+        30,
+        0,
+        0,
+        50,
+        0
+    ],
+    "attributes": [
+        17,
+        16,
+        17,
+        7,
+        12,
+        8
+    ],
+    "challenge": "3",
+    "traits_and_actions": "Senses\ndarkvision 60 ft., passive Perception 11\nLanguages\nCommon\nTail Spike Regrowth.\nThe manticore has twenty-\u00ad\u00e2\u0080\u0090four tail spikes. Used spikes regrow when the manticore finishes a long rest.\nActions\nMultiattack.\nThe manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes.\nBite.\nMelee weapon attack:\n+5 to hit, reach 5 ft., one target.\nHit:\n7 (1d8 + 3) piercing damage.\nClaw.\nMelee weapon attack:\n+5 to hit, reach 5 ft., one target.\nHit:\n6 (1d6 + 3) slashing damage.\nTail Spike.\nRanged weapon attack:\n+5 to hit, range 100/200 ft., one target.\nHit:\n7 (1d8 + 3) piercing damage."
+}

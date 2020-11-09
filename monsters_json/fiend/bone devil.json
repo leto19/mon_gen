@@ -1,0 +1,25 @@
+{
+    "name": "bone devil",
+    "type": "fiend",
+    "size": "large",
+    "alignment": " lawful evil",
+    "armor_class": 19,
+    "hp": 142,
+    "speed": [
+        40,
+        0,
+        0,
+        40,
+        0
+    ],
+    "attributes": [
+        18,
+        16,
+        18,
+        13,
+        14,
+        16
+    ],
+    "challenge": "9",
+    "traits_and_actions": "Saving Throws\nInt +5, Wis +6, Cha +7\nSkills\nDeception +7, Insight +6\nDamage Resistances\ncold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered\nDamage Immunities\nfire, poison\nCondition Immunities\npoisoned\nSenses\ndarkvision 120 ft., passive Perception 12\nLanguages\nInfernal, telepathy 120 ft.\nDevil\u2019s Sight.\nMagical darkness doesn\u2019t impede the devil\u2019s darkvision.\nMagic Resistance.\nThe devil has advantage on saving throws against spells and other magical effects.\nActions\nMultiattack.\nThe devil makes three attacks: two with its claws and one with its sting.\nClaw.\nMelee Weapon Attack:\n+8 to hit, reach 10 ft., one target.\nHit:\n8 (1d8 + 4) slashing damage.\nSting.\nMelee Weapon Attack:\n+8 to hit, reach 10 ft., one target.\nHit:\n13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+}

@@ -1,0 +1,25 @@
+{
+    "name": "green hag",
+    "type": "fey",
+    "size": "medium",
+    "alignment": " neutral evil",
+    "armor_class": 17,
+    "hp": 82,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        18,
+        12,
+        16,
+        13,
+        14,
+        14
+    ],
+    "challenge": "3",
+    "traits_and_actions": "Skills\nArcana +3, Deception +4, Perception +4, Stealth +3\nSenses\ndarkvision 60 ft., passive Perception 14\nLanguages\nCommon, Draconic, Sylvan\nAmphibious.\nThe hag can breathe air and water.\nInnate spellcasting.\nThe hag\u2019s innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:\nAt will:\ndancing lights\n,\nminor illusion\n,\nvicious mockery\nMimicry.\nThe hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.\nActions\nClaws.\nMelee weapon attack:\n+6 to hit, reach 5 ft., one target.\nHit:\n13 (2d8 + 4) slashing damage.\nIllusory appearance.\nThe hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies. The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have smooth skin, but someone touching her would feel her rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 20 Intelligence (Investigation) check to discern that the hag is disguised.\nInvisible passage.\nThe hag magically turns invisible until she attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is invisible with her."
+}

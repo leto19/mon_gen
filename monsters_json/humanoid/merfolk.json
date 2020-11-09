@@ -1,0 +1,25 @@
+{
+    "name": "merfolk",
+    "type": "humanoid",
+    "size": "medium",
+    "alignment": " neutral",
+    "armor_class": 11,
+    "hp": 11,
+    "speed": [
+        10,
+        0,
+        0,
+        0,
+        40
+    ],
+    "attributes": [
+        10,
+        13,
+        12,
+        11,
+        11,
+        12
+    ],
+    "challenge": "1/8",
+    "traits_and_actions": "Skills\nPerception +2\nSenses\npassive Perception 12\nLanguages\nAquan, Common\nAmphibious.\nThe merfolk can breathe air and water.\nActions\nSpear.\nMelee or ranged weapon attack:\n+2 to hit, reach 5 ft. or range 20/60 ft., one target.\nHit:\n3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack."
+}

@@ -1,0 +1,25 @@
+{
+    "name": "homunculus",
+    "type": "construct",
+    "size": "tiny",
+    "alignment": " neutral",
+    "armor_class": 13,
+    "hp": 5,
+    "speed": [
+        20,
+        0,
+        0,
+        40,
+        0
+    ],
+    "attributes": [
+        4,
+        15,
+        11,
+        10,
+        10,
+        7
+    ],
+    "challenge": "0",
+    "traits_and_actions": "Damage immunities\npoison\nCondition immunities\ncharmed, poisoned\nSenses\ndarkvision 60 ft., passive Perception 10\nLanguages\nunderstands the languages of its creator but can\u2019t speak\nTelepathic bond.\nWhile the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.\nActions\nBite.\nMelee weapon attack:\n+4 to hit, reach 5 ft., one creature.\nHit:\n1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way."
+}

@@ -1,0 +1,25 @@
+{
+    "name": "sea hag",
+    "type": "fey",
+    "size": "medium",
+    "alignment": " chaotic evil",
+    "armor_class": 14,
+    "hp": 52,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        40
+    ],
+    "attributes": [
+        16,
+        13,
+        16,
+        12,
+        12,
+        13
+    ],
+    "challenge": "2",
+    "traits_and_actions": "Senses\ndarkvision 60 ft., passive Perception 11\nLanguages\nAquan, Common, Giant\nAmphibious.\nThe hag can breathe air and water. Horrific Appearance. Any humanoid that starts its turn within 30 feet of the hag and can see the hag\u2019s true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature\u2019s saving throw is successful or the effect ends for it, the creature is immune to the hag\u2019s Horrific Appearance for the next 24 hours. Unless the target is surprised or the revelation of the hag\u2019s true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag.\nActions\nClaws.\nMelee weapon attack:\n+5 to hit, reach 5 ft., one target.\nHit:\n10 (2d6 + 3) slashing damage.\nDeath glare.\nThe hag targets one frightened creature she can see within 30 feet of her. If the target can see the hag, it must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0\nhit points\n.\nIllusory appearance.\nThe hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like an ugly creature of her general size and humanoid shape. The effect ends if the hag takes a bonus action to end it or if she dies. The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have no claws, but someone touching her hand might feel the claws. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 16 Intelligence (Investigation) check to discern that the hag is disguised."
+}

@@ -1,0 +1,25 @@
+{
+    "name": "elf, drow",
+    "type": "humanoid",
+    "size": "medium",
+    "alignment": " neutral evil",
+    "armor_class": 15,
+    "hp": 13,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        10,
+        14,
+        10,
+        11,
+        11,
+        12
+    ],
+    "challenge": "1/4",
+    "traits_and_actions": "Skills\nPerception +2, Stealth +4\nSenses\ndarkvision 120 ft., passive Perception 12\nLanguages\nElvish, Undercommon\nFey Ancestry.\nThe drider has advantage on saving throws against being charmed, and magic can\u2019t put the drider to sleep.\nInnate Spellcasting.\nThe drow\u2019s innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components:\nAt will:\ndancing lights\n1/day each:\ndarkness\n,\nfaerie fire\nSunlight Sensitivity.\nWhile in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.\nActions\nShortsword.\nMelee Weapon Attack:\n+4 to hit, reach 5 ft., one target.\nHit:\n5 (1d6 + 2) piercing damage.\nHand Crossbow.\nRanged Weapon Attack:\n+4 to hit, range 30/120 ft., one target.\nHit:\n5 (1d6 + 2) Piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake."
+}

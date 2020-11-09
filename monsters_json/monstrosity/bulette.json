@@ -1,0 +1,25 @@
+{
+    "name": "bulette",
+    "type": "monstrosity",
+    "size": "large",
+    "alignment": " unaligned",
+    "armor_class": 17,
+    "hp": 94,
+    "speed": [
+        40,
+        40,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        19,
+        11,
+        21,
+        2,
+        10,
+        5
+    ],
+    "challenge": "5",
+    "traits_and_actions": "Skills\nPerception +6\nSenses\ndarkvision 60 ft., tremorsense 60 ft., passive Perception 16\nLanguages\n\u2014\nStanding Leap.\nThe bulette\u2019s long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.\nActions\nBite.\nMelee Weapon Attack:\n+7 to hit, reach 5 ft., one target.\nHit:\n30 (4d12 + 4) piercing damage.\nDeadly Leap.\nIf the bulette jumps at least 15 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures must succeed on a DC 16 Strength or Dexterity saving throw (target\u2019s choice) or be knocked prone and take 14 (3d6 + 4) bludgeoning damage plus 14 (3d6 + 4) slashing damage. On a successful save, the creature takes only half the damage, isn\u2019t knocked prone, and is pushed 5 feet out of the bulette\u2019s space into an unoccupied space of the creature\u2019s choice. If no unoccupied space is within range, the creature instead falls prone in the bulette\u2019s space."
+}

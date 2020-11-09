@@ -1,0 +1,25 @@
+{
+    "name": "ghoul",
+    "type": "undead",
+    "size": "medium",
+    "alignment": " chaotic evil",
+    "armor_class": 12,
+    "hp": 22,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        13,
+        15,
+        10,
+        7,
+        10,
+        6
+    ],
+    "challenge": "1",
+    "traits_and_actions": "Damage Immunities\npoison\nCondition Immunities\ncharmed, exhaustion, poisoned\nSenses\ndarkvision 60 ft., passive Perception 10\nLanguages\nCommon\nActions\nBite.\nMelee Weapon Attack:\n+2 to hit, reach 5 ft., one creature.\nHit:\n9 (2d6 + 2) piercing damage.\nClaws.\nMelee Weapon Attack:\n+4 to hit, reach 5 ft., one target.\nHit:\n7 (2d4 + 2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+}

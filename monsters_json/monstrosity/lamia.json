@@ -1,0 +1,25 @@
+{
+    "name": "lamia",
+    "type": "monstrosity",
+    "size": "large",
+    "alignment": " chaotic evil",
+    "armor_class": 13,
+    "hp": 97,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        16,
+        13,
+        15,
+        14,
+        15,
+        16
+    ],
+    "challenge": "4",
+    "traits_and_actions": "Skills\nDeception +7, Insight +4, Stealth +3\nSenses\ndarkvision 60 ft., passive Perception 12\nLanguages\nAbyssal, Common\nInnate spellcasting.\nThe lamia\u2019s innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components.\nAt will:\ndisguise self\n(any humanoid form),\nmajor image\n3/day each:\ncharm person\n,\nmirror image\n,\nscrying\n,\nsuggestion\n1/day:\ngeas\nActions\nMultiattack.\nThe lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch.\nClaws.\nMelee weapon attack:\n+5 to hit, reach 5 ft., one target.\nHit:\n14 (2d10 + 3) slashing damage.\nDagger.\nMelee weapon attack:\n+5 to hit, reach 5 ft., one target.\nHit:\n5 (1d4 + 3) piercing damage.\nIntoxicating Touch.\nMelee spell attack:\n+5 to hit, reach 5 ft., one creature.\nHit:\nThe target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks."
+}

@@ -1,0 +1,25 @@
+{
+    "name": "vampire spawn",
+    "type": "undead",
+    "size": "medium",
+    "alignment": " neutral evil",
+    "armor_class": 15,
+    "hp": 82,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        16,
+        16,
+        16,
+        11,
+        10,
+        12
+    ],
+    "challenge": "5",
+    "traits_and_actions": "Saving throws\nDex +6, Wis +3\nSkills\nPerception +3, Stealth +6\nDamage resistances\nnecrotic; bludgeoning, piercing, and slashing from nonmagical attacks\nSenses\ndarkvision 60 ft., passive Perception 13\nLanguages\nthe languages it knew in life\nRegeneration.\nThe vampire regains 10\nhit points\nat the start of its turn if it has at least 1 hit point and isn\u2019t in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn\u2019t function at the start of the vampire\u2019s next turn.\nSpider climb.\nThe vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.\nVampire weaknesses.\nThe vampire has the following flaws:\nForbiddance.\nThe vampire can\u2019t enter a residence without an invitation from one of the occupants.\nHarmed by running water.\nThe vampire takes 20 acid damage when it ends its turn in running water.\nStake to the Heart.\nThe vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place.\nSunlight Hypersensitivity.\nThe vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.\nActions\nMultiattack.\nThe vampire makes two attacks, only one of which can be a bite attack.\nClaws.\nMelee weapon attack:\n+6 to hit, reach 5 ft., one creature.\nHit:\n8 (2d4 + 3) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13).\nBite.\nMelee weapon attack:\n+6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained.\nHit:\n6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target\u2019s hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0"
+}

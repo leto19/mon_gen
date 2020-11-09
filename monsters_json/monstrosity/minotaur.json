@@ -1,0 +1,25 @@
+{
+    "name": "minotaur",
+    "type": "monstrosity",
+    "size": "large",
+    "alignment": " chaotic evil",
+    "armor_class": 14,
+    "hp": 76,
+    "speed": [
+        40,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        18,
+        11,
+        16,
+        6,
+        16,
+        9
+    ],
+    "challenge": "3",
+    "traits_and_actions": "Skills\nPerception +7\nSenses\ndarkvision 60 ft., passive Perception 17\nLanguages\nAbyssal\nCharge.\nIf the minotaur moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.\nLabyrinthine Recall.\nThe minotaur can perfectly recall any path it has traveled. Reckless. At the start of its turn, the minotaur can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.\nActions\nGreataxe.\nMelee weapon attack:\n+6 to hit, reach 5 ft., one target.\nHit:\n17 (2d12 + 4) slashing damage.\nGore.\nMelee weapon attack:\n+6 to hit, reach 5 ft., one target.\nHit:\n13 (2d8 + 4) piercing damage."
+}

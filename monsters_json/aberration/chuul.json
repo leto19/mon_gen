@@ -1,0 +1,25 @@
+{
+    "name": "chuul",
+    "type": "aberration",
+    "size": "large",
+    "alignment": " chaotic evil",
+    "armor_class": 16,
+    "hp": 93,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        30
+    ],
+    "attributes": [
+        19,
+        11,
+        16,
+        5,
+        11,
+        5
+    ],
+    "challenge": "4",
+    "traits_and_actions": "Skills\nPerception +4\nDamage Immunities\npoison\nCondition Immunities\npoisoned\nSenses\ndarkvision 60 ft., passive Perception 14\nLanguages\nunderstands Deep Speech but can't speak.\nAmphibious.\nThe chuul can breathe air and water.\nSense Magic.\nThe chuul senses magic within 120 feet of it at will. This trait otherwise works like the detect magic spell but isn\u2019t itself magical.\nActions\nMultiattack.\nThe chuul makes two pincer attacks. If the chuul is grappling a creature, the chuul can also use its tentacles once.\nPincer.\nMelee Weapon Attack:\n+6 to hit, reach 10 ft., one target.\nHit:\n11 (2d6 + 4) bludgeoning damage. The target is grappled (escape DC 14) if it is a Large or smaller creature and the chuul doesn\u2019t have two other creatures grappled.\nTentacles.\nOne creature grappled by the chuul must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. Until this poison ends, the target is paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+}

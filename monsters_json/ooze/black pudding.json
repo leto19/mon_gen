@@ -1,0 +1,25 @@
+{
+    "name": "black pudding",
+    "type": "ooze",
+    "size": "large",
+    "alignment": " unaligned",
+    "armor_class": 7,
+    "hp": 85,
+    "speed": [
+        20,
+        0,
+        20,
+        0,
+        0
+    ],
+    "attributes": [
+        16,
+        5,
+        16,
+        1,
+        6,
+        1
+    ],
+    "challenge": "4",
+    "traits_and_actions": "Damage immunities\nacid, cold, lightning, slashing\nCondition immunities\nblinded, charmed, deafened, exhaustion, frightened, prone\nSenses\nblindsight 60 ft. (blind beyond this radius), passive Perception 8\nLanguages\n\u2014\nAmorphous.\nThe pudding can move through a space as narrow as 1 inch wide without squeezing.\nCorrosive form.\nA creature that touches the pudding or hits it with a melee attack while within 5 feet of it takes 4 (1d8) acid damage. Any nonmagical weapon made of metal or wood that hits the pudding corrodes. After dealing damage, the weapon takes a permanent and cumulative \u22121 penalty to damage rolls. If its penalty drops to \u22125, the weapon is destroyed. Nonmagical ammunition made of metal or wood that hits the pudding is destroyed after dealing damage. The pudding can eat through 2-\u00ad\u00e2\u0080\u0090inch-\u00ad\u00e2\u0080\u0090thick, nonmagical wood or metal in 1 round.\nSpider climb.\nThe pudding can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.\nActions\nPseudopod.\nMelee weapon attack:\n+5 to hit, reach 5 ft., one target.\nHit:\n6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative \u22121 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.\nReactions\nSplit.\nWhen a pudding that is Medium or larger is subjected to lightning or slashing damage, it splits into two new puddings if it has at least 10 hit points. Each new pudding has hit points equal to half the original pudding\u2019s, rounded down. New puddings are one size smaller than the original pudding."
+}

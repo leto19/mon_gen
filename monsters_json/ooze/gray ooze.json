@@ -1,0 +1,25 @@
+{
+    "name": "gray ooze",
+    "type": "ooze",
+    "size": "medium",
+    "alignment": " unaligned",
+    "armor_class": 8,
+    "hp": 22,
+    "speed": [
+        10,
+        0,
+        10,
+        0,
+        0
+    ],
+    "attributes": [
+        12,
+        6,
+        16,
+        1,
+        6,
+        2
+    ],
+    "challenge": "1/2",
+    "traits_and_actions": "Skills\nStealth +2\nDamage resistances\nacid, cold, fire\nCondition immunities\nblinded, charmed, deafened, exhaustion, frightened, prone\nSenses\nblindsight 60 ft. (blind beyond this radius), passive Perception 8\nLanguages\n\u2014\nAmorphous.\nThe ooze can move through a space as narrow as 1 inch wide without squeezing.\nCorrode metal.\nAny nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative \u22121 penalty to damage rolls. If its penalty drops to \u22125, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage. The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.\nFalse appearance\n. While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.\nActions\nPseudopod.\nMelee weapon attack:\n+3 to hit, reach 5 ft., one target.\nHit:\n4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative \u22121 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10."
+}

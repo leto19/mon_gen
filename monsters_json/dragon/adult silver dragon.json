@@ -1,0 +1,25 @@
+{
+    "name": "adult silver dragon",
+    "type": "dragon",
+    "size": "huge",
+    "alignment": " lawful good",
+    "armor_class": 19,
+    "hp": 243,
+    "speed": [
+        40,
+        0,
+        0,
+        80,
+        0
+    ],
+    "attributes": [
+        27,
+        10,
+        25,
+        16,
+        13,
+        21
+    ],
+    "challenge": "16",
+    "traits_and_actions": "Saving Throws\nDex +5, Con +12, Wis +6, Cha +10\nSkills\nArcana +8, History +8, Perception +11, Stealth +5\nDamage Immunities\ncold\nSenses\nblindsight 60 ft., darkvision 120 ft., passive Perception 21\nLanguages\nCommon, Draconic\nIce Walk.\nThe dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn\u2019t cost it extra moment.\nLegendary Resistance (3/Day).\nIf the dragon fails a saving throw, it can choose to succeed instead.\nActions\nMultiattack.\nThe dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.\nBite.\nMelee Weapon Attack:\n+13 to hit, reach 10 ft., one target.\nHit:\n19 (2d10 + 8) piercing damage.\nClaw.\nMelee Weapon Attack:\n+13 to hit, reach 5 ft., one target.\nHit:\n15 (2d6 + 8) slashing damage.\nTail.\nMelee Weapon Attack:\n+13 to hit, reach 15 ft., one target.\nHit:\n17 (2d8 + 8) bludgeoning damage.\nFrightful Presence.\nEach creature of the dragon\u2019s choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature\u2019s saving throw is successful or the effect ends for it, the creature is immune to the dragon\u2019s Frightful Presence for the next 24 hours.\nBreath Weapons (Recharge 5-6).\nThe dragon uses one of the following breath weapons.\nCold Breath.\nThe dragon exhales an icy blast in a 60-foot cone. Each creature in that line must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.\nParalyzing Breath\nThe dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.\nChange Shape.\nThe dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon\u2019s choice). In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.\nLegendary Actions\nThe dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature\u2019s turn. The dragon regains spent legendary actions at the start of its turn.\nDetect.\nThe dragon makes a Wisdom (Perception) check.\nTail Attack.\nThe dragon makes a tail attack.\nWing Attack (Costs 2 Actions).\nThe dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed."
+}

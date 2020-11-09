@@ -1,0 +1,25 @@
+{
+    "name": "pseudodragon",
+    "type": "dragon",
+    "size": "tiny",
+    "alignment": " neutral good",
+    "armor_class": 13,
+    "hp": 7,
+    "speed": [
+        15,
+        0,
+        0,
+        60,
+        0
+    ],
+    "attributes": [
+        6,
+        15,
+        13,
+        10,
+        12,
+        10
+    ],
+    "challenge": "1/4",
+    "traits_and_actions": "Skills\nPerception +3, Stealth +4\nSenses\nblindsight 10 ft., darkvision 60 ft., passive Perception 13\nLanguages\nunderstands Common and Draconic but can\u2019t speak\nKeen Senses.\nThe pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.\nMagic resistance.\nThe pseudodragon has advantage on saving throws against spells and other magical effects.\nLimited telepathy.\nThe pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.\nActions\nBite.\nMelee weapon attack:\n+4 to hit, reach 5 ft., one target.\nHit:\n4 (1d4 + 2) piercing damage.\nSting.\nMelee weapon attack:\n+4 to hit, reach 5 ft., one creature.\nHit:\n4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. If the saving throw fails by 5 or more, the target falls unconscious for the same duration, or until it takes damage or another creature uses an action to shake it awake."
+}

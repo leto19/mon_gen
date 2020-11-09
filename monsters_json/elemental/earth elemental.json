@@ -1,0 +1,25 @@
+{
+    "name": "earth elemental",
+    "type": "elemental",
+    "size": "large",
+    "alignment": " neutral",
+    "armor_class": 17,
+    "hp": 126,
+    "speed": [
+        30,
+        30,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        20,
+        8,
+        20,
+        5,
+        10,
+        5
+    ],
+    "challenge": "5",
+    "traits_and_actions": "Damage Vulnerabilities\nthunder\nDamage Resistances\nbludgeoning, piercing, and slashing from nonmagical attacks\nDamage Immunities\npoison\nCondition Immunities\nexhaustion, paralyzed, petrified, poisoned, unconscious\nSenses\ndarkvision 60 ft., passive Perception 10\nLanguages\nAuran\nEarth Glide.\nThe elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn\u2019t disturb the material it moves through.\nSiege Monster.\nThe elemental deals double damage to objects and structures.\nActions\nMultiattack.\nThe elemental makes two slam attacks.\nSlam.\nMelee Weapon Attack:\n+8 to hit, reach 10 ft., one target.\nHit:\n14 (2d8 + 5) bludgeoning damage."
+}

@@ -1,0 +1,25 @@
+{
+    "name": "orc",
+    "type": "humanoid",
+    "size": "medium",
+    "alignment": " chaotic evil",
+    "armor_class": 13,
+    "hp": 15,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        16,
+        12,
+        16,
+        7,
+        11,
+        10
+    ],
+    "challenge": "1/2",
+    "traits_and_actions": "Skills\nIntimidation +2\nSenses\ndarkvision 60 ft., passive Perception 10\nLanguages\nCommon, Orc\nAggresive.\nAs a bonus action, the orc can move up to its\nspeed\ntoward a hostile creature that it can see.\nActions\nGreataxe.\nMelee weapon attack:\n+5 to hit, reach 5 ft., one target.\nHit:\n9 (1d12 + 3) slashing damage.\nJavelin.\nMelee or ranged weapon attack:\n+5 to hit, reach 5 ft. or range 30/120 ft., one target.\nHit:\n6 (1d6 + 3) piercing damage."
+}

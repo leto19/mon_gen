@@ -1,0 +1,25 @@
+{
+    "name": "werebear",
+    "type": "humanoid",
+    "size": "medium",
+    "alignment": " shapechanger)",
+    "armor_class": 10,
+    "hp": 135,
+    "speed": [
+        30,
+        0,
+        30,
+        0,
+        0
+    ],
+    "attributes": [
+        19,
+        10,
+        17,
+        11,
+        12,
+        12
+    ],
+    "challenge": "5",
+    "traits_and_actions": "Skills\nPerception +7\nDamage immunities\nbludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons\nSenses\npassive Perception 17\nLanguages\nCommon (can\u2019t speak in bear form)\nShapechanger.\nThe werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn\u2019t transformed. It reverts to its true form if it dies.\nKeen smell.\nThe werebear has advantage on Wisdom (Perception) checks that rely on smell.\nActions\nMultiattack.\nIn bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid.\nBite (Bear or Hybrid Form Only).\nMelee weapon attack:\n+7 to hit, reach 5 ft., one target.\nHit:\n15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werebear lycanthropy.\nClaw (Bear or Hybrid Form Only).\nMelee weapon attack:\n+7 to hit, reach 5 ft., one target.\nHit:\n13 (2d8 + 4) slashing damage.\nGreataxe (humanoid or hybrid form only).\nMelee weapon attack:\n+7 to hit, reach 5 ft., one target.\nHit:\n10 (1d12 + 4) slashing damage."
+}

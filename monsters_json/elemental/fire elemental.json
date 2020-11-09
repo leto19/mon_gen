@@ -1,0 +1,25 @@
+{
+    "name": "fire elemental",
+    "type": "elemental",
+    "size": "large",
+    "alignment": " neutral",
+    "armor_class": 13,
+    "hp": 102,
+    "speed": [
+        50,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        10,
+        17,
+        16,
+        6,
+        10,
+        7
+    ],
+    "challenge": "5",
+    "traits_and_actions": "Damage Resistances\nbludgeoning, piercing, and slashing from nonmagical attacks\nDamage Immunities\nfire, poison\nCondition Immunities\nexhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious\nSenses\ndarkvision 60 ft., passive Perception 10\nLanguages\nIngan\nFire Form.\nThe elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature\u2019s space and stop there. The first time it enters a creature\u2019s space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone\u00a0takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.\nIllumination.\nThe elemental sheds bright light in a 30-foot radius and dim light in an additional 30 feet.\nWater Susceptibility.\nFor every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.\nActions\nMultiattack.\nThe elemental makes two touch attacks.\nTouch.\nMelee Weapon Attack:\n+6 to hit, reach 5 ft., one target.\nHit:\n10 (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns."
+}

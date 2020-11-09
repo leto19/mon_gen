@@ -1,0 +1,25 @@
+{
+    "name": "green dragon wyrmling",
+    "type": "dragon",
+    "size": "medium",
+    "alignment": " lawful evil",
+    "armor_class": 17,
+    "hp": 38,
+    "speed": [
+        30,
+        0,
+        0,
+        60,
+        30
+    ],
+    "attributes": [
+        15,
+        12,
+        13,
+        14,
+        11,
+        13
+    ],
+    "challenge": "2",
+    "traits_and_actions": "Saving Throws Dex +3, Con +3, Wis +2, Cha +3\nSkills Perception +4, Stealth +3\nDamage Immunities poison\nCondition Immunities poisoned\nSenses blindsight 10 ft., darkvision 60 ft., passive Perception 14\nLanguages Draconic\nAmphibious. The dragon can breathe air and water.\nActions\nBite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage plus 3 (1d6) poison damage.\nPoison Breath (Recharge 5\u20136). The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 22 (5d8) poison damage on a failed save, or half as much damage on a successful one."
+}

@@ -1,0 +1,25 @@
+{
+    "name": "pegasus",
+    "type": "celestial",
+    "size": "large",
+    "alignment": " chaotic good",
+    "armor_class": 12,
+    "hp": 59,
+    "speed": [
+        60,
+        0,
+        0,
+        90,
+        0
+    ],
+    "attributes": [
+        18,
+        15,
+        16,
+        10,
+        15,
+        13
+    ],
+    "challenge": "2",
+    "traits_and_actions": "Saving throws\nDex +4, Wis +4, Cha +3\nSkills\nPerception +6\nSenses\npassive Perception 16\nLanguages\nunderstands Celestial, Common, Elvish, and Sylvan but can\u2019t speak\nActions\nHooves.\nMelee weapon attack:\n+6 to hit, reach 5 ft., one target.\nHit:\n11 (2d6 + 4) bludgeoning damage."
+}

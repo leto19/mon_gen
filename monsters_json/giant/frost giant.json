@@ -1,0 +1,25 @@
+{
+    "name": "frost giant",
+    "type": "giant",
+    "size": "huge",
+    "alignment": " neutral evil",
+    "armor_class": 15,
+    "hp": 138,
+    "speed": [
+        40,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        23,
+        9,
+        21,
+        9,
+        10,
+        12
+    ],
+    "challenge": "8",
+    "traits_and_actions": "Saving throws\nCon +8, Wis +3, Cha +4\nSkills\nAthletics +9, Perception +3\nDamage immunities\ncold\nSenses\npassive Perception 13\nLanguages\nGiant\nActions\nMultiattack\n. The giant makes two greataxe attacks.\nGreataxe.\nMelee weapon attack\n: +9 to hit, reach 10 ft., one target.\nHit:\n25 (3d12 + 6) slashing damage.\nRock.\nRanged weapon attack\n: +9 to hit, range 60/240 ft., one target.\nHit:\n28 (4d10 + 6) bludgeoning damage."
+}

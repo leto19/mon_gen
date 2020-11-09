@@ -1,0 +1,25 @@
+{
+    "name": "azer",
+    "type": "elemental",
+    "size": "medium",
+    "alignment": " lawful neutral",
+    "armor_class": 17,
+    "hp": 39,
+    "speed": [
+        30,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        17,
+        12,
+        15,
+        12,
+        13,
+        10
+    ],
+    "challenge": "2",
+    "traits_and_actions": "Saving Throws\nCon +4\nDamage Immunities\nfire, poison\nCondition Immunities\npoisoned\nSenses\npassive Perception 11\nLanguages\nIgnan\nHeated Body.\nA creature that touches the azer or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage.\nHeated Weapons.\nWhen the azer hits with a metal melee weapon, it deals an extra 3 (1d6) fire damage (included in the attack).\nIllumination.\nThe azer sheds bright light in a 10-\u00ad\u00e2\u0080\u0090foot radius and dim light for an additional 10 feet.\nActions\nWarhammer.\nMelee Weapon Attack:\n+5 to hit, reach 5 ft., one target.\nHit:\n7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage."
+}

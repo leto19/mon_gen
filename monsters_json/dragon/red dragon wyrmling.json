@@ -1,0 +1,25 @@
+{
+    "name": "red dragon wyrmling",
+    "type": "dragon",
+    "size": "medium",
+    "alignment": " chaotic evil",
+    "armor_class": 17,
+    "hp": 75,
+    "speed": [
+        30,
+        0,
+        30,
+        0,
+        0
+    ],
+    "attributes": [
+        19,
+        10,
+        17,
+        12,
+        11,
+        15
+    ],
+    "challenge": "4",
+    "traits_and_actions": "Saving Throws Dex +2, Con +5, Wis +2, Cha +4\nSkills Perception +4, Stealth +2\nDamage Immunities fire\nSenses blindsight 10 ft., darkvision 60 ft., passive Perception 14\nLanguages Draconic\nActions\nBite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.\nFire Breath (Recharge 5\u20136). The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one."
+}

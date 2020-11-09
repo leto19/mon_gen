@@ -1,0 +1,25 @@
+{
+    "name": "black dragon wyrmling",
+    "type": "dragon",
+    "size": "medium",
+    "alignment": " chaotic evil",
+    "armor_class": 17,
+    "hp": 33,
+    "speed": [
+        30,
+        0,
+        0,
+        60,
+        30
+    ],
+    "attributes": [
+        15,
+        14,
+        13,
+        10,
+        11,
+        13
+    ],
+    "challenge": "2",
+    "traits_and_actions": "Saving Throws\nDex +4, Con +3, Wis +2, Cha +3\nSkills\nPerception +4, Stealth +4\nDamage Immunities\nacid\nSenses\nblindsight 10 ft., darkvision 60 ft., passive Perception 14\nLanguages\nDraconic\nAmphibious.\nThe dragon can breathe air and water.\nActions\nBite.\nMelee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.\nAcid Breath (Recharge 5\u20136).\nThe dragon exhales acid in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one."
+}

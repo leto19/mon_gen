@@ -1,0 +1,25 @@
+{
+    "name": "djinni",
+    "type": "elemental",
+    "size": "large",
+    "alignment": " chaotic good",
+    "armor_class": 17,
+    "hp": 161,
+    "speed": [
+        30,
+        0,
+        0,
+        90,
+        0
+    ],
+    "attributes": [
+        21,
+        15,
+        22,
+        15,
+        16,
+        20
+    ],
+    "challenge": "11",
+    "traits_and_actions": "Saving Throws\nDex +6, Wis +7, Cha +9\nDamage Immunities\nlightning, thunder\nSenses\ndarkvision 120 ft., passive Perception 13\nLanguages\nAuran\nElemental Demise.\nIf the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.\nInnate Spellcasting.\nThe djinni\u2019s innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components:\nAt will:\ndetect evil and good\n,\ndetect magic\n,\nthunderwave\n3/day each:\ncreate food and water\n(can create wine instead of water),\ntongues\n,\nwind walk\n1/day each:\nconjure elemental\n(air elemental only),\ncreation\n,\ngaseous form\n,\ninvisibility\n,\nmajor image\n,\nplane shift\nActions\nMultiattack.\nThe djinni makes three scimitar attacks.\nScimitar.\nMelee Weapon Attack:\n+9 to hit, reach 5 ft., one target.\nHit\n: 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (djinni\u2019s choice).\nCreate Whirlwind.\nA 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a spell). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be restrained by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it. A creature can use its action to free a creature restrained by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.\nEfreeti\nLarge elemental, lawful evil\nArmor Class\n17 (natural armor)\nHit Points\n200 (16d10 + 112)\nSpeed\n40 ft., fly 60 ft.\nSTR\nDEX\nCON\nINT\nWIS\nCHA\n22(+6)\n12(+1)\n24(+7)\n16(+3)\n15(+2)\n16(+3)\nSaving Throws\nInt +7, Wis +6, Cha +7\nDamage Immunities\nfire\nSenses\ndarkvision 120 ft., passive Perception 12\nLanguages\nIgnan\nChallenge\n11 (7,200 XP)\nElemental Demise.\nIf the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the efreeti was wearing or carrying.\nInnate Spellcasting.\nThe efreeti\u2019s innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:\nAt will:\ndetect magic\n3/day each:\nenlarge/reduce\n,\ntongues\n1/day each:\nconjure elemental\n(fire elemental only),\ngaseous form\n,\ninvisibility\n,\nmajor image\n,\nplane shift\n,\nwall of fire\n.\nActions\nMultiattack.\nThe efreeti makes two scimitar attacks or uses its Hurl Flame twice.\nScimitar.\nM\nelee Weapon Attack:\n+10 to hit, reach 5 ft., one target.\nHit:\n13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage.\nHurl Flame.\nRanged Spell Attack:\n+7 to hit, range 120 ft., one target.\nHit:\n17 (5d6) fire damage."
+}

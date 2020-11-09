@@ -1,0 +1,25 @@
+{
+    "name": "spirit naga",
+    "type": "monstrosity",
+    "size": "large",
+    "alignment": " chaotic evil",
+    "armor_class": 15,
+    "hp": 75,
+    "speed": [
+        40,
+        0,
+        0,
+        0,
+        0
+    ],
+    "attributes": [
+        18,
+        17,
+        14,
+        16,
+        15,
+        16
+    ],
+    "challenge": "8",
+    "traits_and_actions": "Saving throws\nDex +6, Con +5, Wis +5, Cha +6\nDamage immunities\npoison\nCondition immunities\ncharmed, poisoned\nSenses\ndarkvision 60 ft., passive Perception 12\nLanguages\nAbyssal, Common\nRejuvenation.\nIf it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.\nSpellcasting.\nThe naga is a 10\nth\n-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:\nCantrips (at will):\nmage hand\n,\nminor illusion\n,\nray of frost\n1st level (4 slots):\ncharm person\n,\ndetect magic\n,\nsleep\n2nd level (3 slots):\ndetect thoughts\n,\nhold person\n3rd level (3 slots):\nlightning bolt\n,\nwater breathing\n4th level (3 slots):\nblight\n,\ndimension door\n5th level (2 slots):\ndominate person\nActions\nBite.\nMelee weapon attack:\n+7 to hit, reach 10 ft., one creature.\nHit:\n7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one."
+}

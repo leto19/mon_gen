@@ -1,0 +1,25 @@
+{
+    "name": "invisible stalker",
+    "type": "elemental",
+    "size": "medium",
+    "alignment": " neutral",
+    "armor_class": 14,
+    "hp": 104,
+    "speed": [
+        50,
+        0,
+        0,
+        50,
+        0
+    ],
+    "attributes": [
+        16,
+        19,
+        14,
+        10,
+        15,
+        11
+    ],
+    "challenge": "6",
+    "traits_and_actions": "Skills\nPerception +8, Stealth +10\nDamage resistances\nbludgeoning, piercing, and slashing from nonmagical attacks\nDamage immunities\npoison\nCondition immunities\nexhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious\nSenses\ndarkvision 60 ft., passive Perception 18\nLanguages\nAuran, understands Common but doesn\u2019t speak it\nInvisibility.\nThe stalker is invisible. Faultless Tracker. The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.\nActions\nMultiattack.\nThe stalker makes two slam attacks.\nSlam.\nMelee weapon attack:\n+6 to hit, reach 5 ft., one target.\nHit:\n10 (2d6 + 3) bludgeoning damage."
+}

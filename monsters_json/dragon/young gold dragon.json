@@ -1,0 +1,25 @@
+{
+    "name": "young gold dragon",
+    "type": "dragon",
+    "size": "large",
+    "alignment": " lawful good",
+    "armor_class": 18,
+    "hp": 178,
+    "speed": [
+        40,
+        0,
+        0,
+        80,
+        40
+    ],
+    "attributes": [
+        23,
+        14,
+        21,
+        16,
+        13,
+        20
+    ],
+    "challenge": "10",
+    "traits_and_actions": "Saving Throws\nDex +6, Con +9, Wis +5, Cha +9\nSkills\nInsight +5, Perception +9, Persuasion +9, Stealth +6\nDamage Immunities\nfire\nSenses\nblindsight 30 ft., darkvision 120 ft., passive Perception 19\nLanguages\nCommon, Draconic\nAmphibious\n.\nThe dragon can breathe air and water.\nActions\nMultiattack.\nThe dragon makes three attacks: one with its bite and two with its claws.\nBite.\nMelee Weapon Attack:\n+10 to hit, reach 10 ft., one target.\nHit:\n17 (2d10 + 6) piercing damage.\nClaw.\nMelee Weapon Attack:\n+10 to hit, reach 5 ft., one target.\nHit:\n13 (2d6 + 6) slashing damage.\nBreath Weapons (Recharge 5-6).\nThe dragon uses one of the following breath weapons.\nFire Breath.\nThe dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.\nWeakening Breath.\nThe dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success."
+}

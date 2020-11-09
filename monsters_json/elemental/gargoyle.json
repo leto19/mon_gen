@@ -1,0 +1,25 @@
+{
+    "name": "gargoyle",
+    "type": "elemental",
+    "size": "medium",
+    "alignment": " chaotic evil",
+    "armor_class": 15,
+    "hp": 52,
+    "speed": [
+        30,
+        0,
+        0,
+        60,
+        0
+    ],
+    "attributes": [
+        15,
+        11,
+        16,
+        6,
+        11,
+        7
+    ],
+    "challenge": "2",
+    "traits_and_actions": "Damage Resistances\nbludgeoning, piercing, and slashing from nonmagical attacks that aren\u2019t adamantine\nDamage Immunities\npoison\nCondition Immunities\nexhaustion, petrified, poisoned\nSenses\ndarkvision 60 ft., passive Perception 10\nLanguages\nTerran\nFalse Appearance.\nWhile the gargoyle remains motionless, it is indistinguishable from an inanimate statue.\nActions\nMultiattack.\nThe gargoyle makes two attacks: one with its bite and one with its claws.\nBite.\nMelee Weapon Attack:\n+4 to hit, reach 5 ft., one target.\nHit:\n5 (1d6 + 2) piercing damage.\nClaws.\nMelee Weapon Attack:\n+4 to hit, reach 5 ft., one target.\nHit:\n5 (1d6 + 2) slashing damage."
+}

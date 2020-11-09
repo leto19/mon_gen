@@ -1,0 +1,25 @@
+{
+    "name": "chimera",
+    "type": "monstrosity",
+    "size": "large",
+    "alignment": " chaotic evil",
+    "armor_class": 14,
+    "hp": 114,
+    "speed": [
+        30,
+        0,
+        0,
+        60,
+        0
+    ],
+    "attributes": [
+        19,
+        11,
+        19,
+        3,
+        14,
+        10
+    ],
+    "challenge": "6",
+    "traits_and_actions": "Skills\nPerception +8\nSenses\ndarkvision 60 ft., passive Perception 18\nLanguages\nunderstands Draconic but can't speak\nActions\nMultiattack.\nThe chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.\nBite.\nMelee Weapon Attack:\n+7 to hit, reach 5 ft., one target.\nHit:\n11 (2d6 + 4) piercing damage.\nHorns.\nMelee Weapon Attack:\n+7 to hit, reach 5 ft., one target.\nHit:\n10 (1d12 + 4) bludgeoning damage.\nClaws.\nMelee Weapon Attack:\n+7 to hit, reach 5 ft., one target.\nHit:\n11 (2d6 + 4) slashing damage.\nFire Breath (Recharge 5\u20136).\nThe dragon head exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one."
+}

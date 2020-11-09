@@ -1,0 +1,25 @@
+{
+    "name": "young bronze dragon",
+    "type": "dragon",
+    "size": "large",
+    "alignment": " lawful good",
+    "armor_class": 18,
+    "hp": 142,
+    "speed": [
+        40,
+        0,
+        0,
+        80,
+        40
+    ],
+    "attributes": [
+        21,
+        10,
+        19,
+        14,
+        13,
+        17
+    ],
+    "challenge": "8",
+    "traits_and_actions": "Saving Throws\nDex +3, Con +7, Wis +4, Cha +6\nSkills\nInsight +4, Perception +7, Stealth +3\nDamage Immunities\nlightning\nSenses\nblindsight 30 ft., darkvision 120 ft., passive Perception 17\nLanguages\nCommon, Draconic\nAmphibious.\nThe dragon can breathe air and water.\nActions\nMultiattack.\nThe dragon makes three attacks: one with its bite and two with its claws.\nBite.\nMelee Weapon Attack:\n+9 to hit, reach 10 ft., one target.\nHit:\n16 (2d10 + 5) piercing damage.\nClaw.\nMelee Weapon Attack:\n+9 to hit, reach 5 ft., one target.\nHit:\n12 (2d6 + 5) slashing damage.\nBreath Weapons (Recharge 5-6).\nThe dragon uses one of the following breath weapons.\nLightning Breath.\nThe dragon exhales lightning in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (11d10) lightning damage on a failed save, or half as much damage on a successful one.\nRepulsion Breath.\nThe dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon."
+}

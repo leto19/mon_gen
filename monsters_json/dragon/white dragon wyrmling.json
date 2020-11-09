@@ -1,0 +1,25 @@
+{
+    "name": "white dragon wyrmling",
+    "type": "dragon",
+    "size": "medium",
+    "alignment": " chaotic evil",
+    "armor_class": 16,
+    "hp": 32,
+    "speed": [
+        30,
+        15,
+        0,
+        60,
+        30
+    ],
+    "attributes": [
+        14,
+        10,
+        14,
+        5,
+        10,
+        11
+    ],
+    "challenge": "2",
+    "traits_and_actions": "Saving Throws Dex +2, Con +4, Wis +2, Cha +2\nSkills Perception +4, Stealth +2\nDamage Immunities cold\nSenses blindsight 10 ft., darkvision 60 ft., passive Perception 14\nLanguages Draconic\nActions\nBite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) piercing damage plus 2 (1d4) cold damage.\nCold Breath (Recharge 5\u20136). The dragon exhales an icy blast in a 15-foot cone. Each creature in that line must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one."
+}
